@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P165：176-LUA中的三种循环(while,for,repeat) - 教到你会 - BV1DS4y1n7qF
+# P165：176-LUA中的三种循环(while,for,repeat) - 教到你会 - BV1DS4y1n7qF
 
 大家好，我是郁金香老师。
 

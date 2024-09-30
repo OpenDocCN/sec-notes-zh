@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P157：168-认识LUA 编写Lua的 Hello World - 教到你会 - BV1DS4y1n7qF
+# P157：168-认识LUA 编写Lua的 Hello World - 教到你会 - BV1DS4y1n7qF
 
 ![](img/1a27977190054078fd3ee9d067402ec9_0.png)
 

@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P70：081-购买物品函数BuyGoodsForName封装 - 教到你会 - BV1DS4y1n7qF
+# P70：081-购买物品函数BuyGoodsForName封装 - 教到你会 - BV1DS4y1n7qF
 
 ![](img/48118f1525604dc70d12ba8982e4c280_0.png)
 

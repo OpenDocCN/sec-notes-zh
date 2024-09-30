@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P161：172-C,C++中获得 LUA函数返回值 - 教到你会 - BV1DS4y1n7qF
+# P161：172-C,C++中获得 LUA函数返回值 - 教到你会 - BV1DS4y1n7qF
 
 ![](img/4bccc80ed190dda61de46ed7f90f8716_0.png)
 

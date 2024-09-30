@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P39：050-动态定位技术-ScanFeatureCode - 教到你会 - BV1DS4y1n7qF
+# P39：050-动态定位技术-ScanFeatureCode - 教到你会 - BV1DS4y1n7qF
 
 大家好，我是刘基贤老师，那么前面结课的时候。
 

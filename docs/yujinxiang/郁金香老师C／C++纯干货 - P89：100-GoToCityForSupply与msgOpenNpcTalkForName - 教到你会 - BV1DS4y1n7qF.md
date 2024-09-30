@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P89：100-GoToCityForSupply与msgOpenNpcTalkForName - 教到你会 - BV1DS4y1n7qF
+# P89：100-GoToCityForSupply与msgOpenNpcTalkForName - 教到你会 - BV1DS4y1n7qF
 
 大家好，我是郁金香老师，那么这节课呢我们一起来完善回城补剂的这个函数啊，那么首先呢我们打开第99课的代码。
 

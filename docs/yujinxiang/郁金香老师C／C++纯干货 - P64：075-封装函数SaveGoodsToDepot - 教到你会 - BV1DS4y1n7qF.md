@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P64：075-封装函数SaveGoodsToDepot - 教到你会 - BV1DS4y1n7qF
+# P64：075-封装函数SaveGoodsToDepot - 教到你会 - BV1DS4y1n7qF
 
 大家好，我是郁金香老师，那么这节课呢我们来完成前面的坐力啊。
 

@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P173：184-LUA获取人物角色坐标GetXy - 教到你会 - BV1DS4y1n7qF
+# P173：184-LUA获取人物角色坐标GetXy - 教到你会 - BV1DS4y1n7qF
 
 ![](img/5f1a09dc130a3084f0a95007eaddad02_0.png)
 

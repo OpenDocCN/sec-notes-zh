@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P162：173-纯LUA函数中的参数与返回值与print函数 - 教到你会 - BV1DS4y1n7qF
+# P162：173-纯LUA函数中的参数与返回值与print函数 - 教到你会 - BV1DS4y1n7qF
 
 ![](img/bcd5c29ebe234562737105b5ab19644e_0.png)
 

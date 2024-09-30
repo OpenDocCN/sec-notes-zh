@@ -1,4 +1,4 @@
-# 郁金香老师C／C++纯干货 - P57：068-获取指定NPC对象GetNpcObjForName - 教到你会 - BV1DS4y1n7qF
+# P57：068-获取指定NPC对象GetNpcObjForName - 教到你会 - BV1DS4y1n7qF
 
 ![](img/456a79a0860a4ba3a5e46e3d2a4c85bd_0.png)
 
