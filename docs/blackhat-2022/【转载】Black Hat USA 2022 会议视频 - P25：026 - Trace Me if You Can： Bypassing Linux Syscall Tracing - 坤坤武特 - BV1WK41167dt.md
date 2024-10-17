@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P25：026 - Trace Me if You Can： Bypassing Linux Syscall Tracing - 坤坤武特 - BV1WK41167dt
+# P25：026 - Trace Me if You Can： Bypassing Linux Syscall Tracing - 坤坤武特 - BV1WK41167dt
 
 ![](img/a7a84fb6bbe2f2eefd46ebc7814c08d6_0.png)
 

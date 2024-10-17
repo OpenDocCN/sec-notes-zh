@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P63：071 - DirectX： The New Hyper-V Attack Surface - 坤坤武特 - BV1WK41167dt
+# P63：071 - DirectX： The New Hyper-V Attack Surface - 坤坤武特 - BV1WK41167dt
 
 ![](img/d528e734e61146c39e947869517bc3c0_0.png)
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P9：009 - IAM The One Who Knocks - 坤坤武特 - BV1WK41167dt
+# P9：009 - IAM The One Who Knocks - 坤坤武特 - BV1WK41167dt
 
 ![](img/d4470b9527e3d2f4619d6274cdbfc44a_0.png)
 

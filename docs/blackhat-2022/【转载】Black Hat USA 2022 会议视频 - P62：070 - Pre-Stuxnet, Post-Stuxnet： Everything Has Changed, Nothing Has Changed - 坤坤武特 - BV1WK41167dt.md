@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P62：070 - Pre-Stuxnet, Post-Stuxnet： Everything Has Changed, Nothing Has Changed - 坤坤武特 - BV1WK41167dt
+# P62：070 - Pre-Stuxnet, Post-Stuxnet： Everything Has Changed, Nothing Has Changed - 坤坤武特 - BV1WK41167dt
 
 ![](img/8cce9b6d516dd5af3a78e0c37821b396_0.png)
 

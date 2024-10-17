@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P74：085 - Devils Are in the File Descriptors： It Is Time To Catch Them All - 坤坤武特 - BV1WK41167dt
+# P74：085 - Devils Are in the File Descriptors： It Is Time To Catch Them All - 坤坤武特 - BV1WK41167dt
 
  [MUSIC]。
 

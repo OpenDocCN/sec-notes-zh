@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P49：054 - Bug Bounty Evolution： Not Your Grandson's Bug Bounty - 坤坤武特 - BV1WK41167dt
+# P49：054 - Bug Bounty Evolution： Not Your Grandson's Bug Bounty - 坤坤武特 - BV1WK41167dt
 
 ![](img/9c80ad92b01f01c91d3a83429570117c_0.png)
 

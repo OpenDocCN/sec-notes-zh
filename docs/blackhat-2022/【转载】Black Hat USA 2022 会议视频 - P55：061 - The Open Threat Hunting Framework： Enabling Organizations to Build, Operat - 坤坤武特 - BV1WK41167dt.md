@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P55：061 - The Open Threat Hunting Framework： Enabling Organizations to Build, Operat - 坤坤武特 - BV1WK41167dt
+# P55：061 - The Open Threat Hunting Framework： Enabling Organizations to Build, Operat - 坤坤武特 - BV1WK41167dt
 
 ![](img/250ed20acd7dfdbdda454d0e74b5b2d5_0.png)
 

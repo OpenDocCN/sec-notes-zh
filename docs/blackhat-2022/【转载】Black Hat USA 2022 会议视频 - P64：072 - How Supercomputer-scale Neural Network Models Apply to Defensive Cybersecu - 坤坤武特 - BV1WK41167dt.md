@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P64：072 - How Supercomputer-scale Neural Network Models Apply to Defensive Cybersecu - 坤坤武特 - BV1WK41167dt
+# P64：072 - How Supercomputer-scale Neural Network Models Apply to Defensive Cybersecu - 坤坤武特 - BV1WK41167dt
 
 ![](img/7d89f845c58dc67d22bf475f4f0885be_0.png)
 

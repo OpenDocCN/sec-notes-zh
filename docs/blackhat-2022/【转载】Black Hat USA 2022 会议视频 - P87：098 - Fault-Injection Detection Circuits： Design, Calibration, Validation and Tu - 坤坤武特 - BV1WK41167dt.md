@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P87：098 - Fault-Injection Detection Circuits： Design, Calibration, Validation and Tu - 坤坤武特 - BV1WK41167dt
+# P87：098 - Fault-Injection Detection Circuits： Design, Calibration, Validation and Tu - 坤坤武特 - BV1WK41167dt
 
 ![](img/0cbbf608d14ad2351224003dfc68a225_0.png)
 

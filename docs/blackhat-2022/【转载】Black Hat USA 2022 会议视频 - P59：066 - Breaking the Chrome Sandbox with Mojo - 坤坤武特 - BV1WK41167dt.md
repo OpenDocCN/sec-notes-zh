@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P59：066 - Breaking the Chrome Sandbox with Mojo - 坤坤武特 - BV1WK41167dt
+# P59：066 - Breaking the Chrome Sandbox with Mojo - 坤坤武特 - BV1WK41167dt
 
 ![](img/0b16363ef0fca94b473397d447acfb82_0.png)
 

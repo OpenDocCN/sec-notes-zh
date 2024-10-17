@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P83：094 - TruEMU： An Extensible, Open-Source, Whole-System iOS Emulator - 坤坤武特 - BV1WK41167dt
+# P83：094 - TruEMU： An Extensible, Open-Source, Whole-System iOS Emulator - 坤坤武特 - BV1WK41167dt
 
  [MUSIC PLAYING]。
 

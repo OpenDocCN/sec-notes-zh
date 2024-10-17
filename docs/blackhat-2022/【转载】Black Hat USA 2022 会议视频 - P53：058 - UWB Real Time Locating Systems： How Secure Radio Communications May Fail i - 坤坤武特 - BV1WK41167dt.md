@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P53：058 - UWB Real Time Locating Systems： How Secure Radio Communications May Fail i - 坤坤武特 - BV1WK41167dt
+# P53：058 - UWB Real Time Locating Systems： How Secure Radio Communications May Fail i - 坤坤武特 - BV1WK41167dt
 
 ![](img/5606e84e84b5ba01fbfd854f03e42eb0_0.png)
 

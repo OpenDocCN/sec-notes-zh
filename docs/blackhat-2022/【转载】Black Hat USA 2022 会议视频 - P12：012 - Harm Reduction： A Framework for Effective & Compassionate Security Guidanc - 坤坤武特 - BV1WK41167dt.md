@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P12：012 - Harm Reduction： A Framework for Effective & Compassionate Security Guidanc - 坤坤武特 - BV1WK41167dt
+# P12：012 - Harm Reduction： A Framework for Effective & Compassionate Security Guidanc - 坤坤武特 - BV1WK41167dt
 
 ![](img/b8493f9a6270e51ffb0388e13f51bb39_0.png)
 

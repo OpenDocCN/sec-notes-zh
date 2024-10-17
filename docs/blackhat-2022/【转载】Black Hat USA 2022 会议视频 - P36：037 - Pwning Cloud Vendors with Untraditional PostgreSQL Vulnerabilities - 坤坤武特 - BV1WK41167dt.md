@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P36：037 - Pwning Cloud Vendors with Untraditional PostgreSQL Vulnerabilities - 坤坤武特 - BV1WK41167dt
+# P36：037 - Pwning Cloud Vendors with Untraditional PostgreSQL Vulnerabilities - 坤坤武特 - BV1WK41167dt
 
 ![](img/5a146a4f81ec056194347b15244635b8_0.png)
 

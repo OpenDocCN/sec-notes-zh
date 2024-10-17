@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P78：089 - Custom Processing Unit： Tracing and Patching Intel Atom Microcode - 坤坤武特 - BV1WK41167dt
+# P78：089 - Custom Processing Unit： Tracing and Patching Intel Atom Microcode - 坤坤武特 - BV1WK41167dt
 
 ![](img/d921f0cc5f60b4d8d45987c4ebe5ceb7_0.png)
 

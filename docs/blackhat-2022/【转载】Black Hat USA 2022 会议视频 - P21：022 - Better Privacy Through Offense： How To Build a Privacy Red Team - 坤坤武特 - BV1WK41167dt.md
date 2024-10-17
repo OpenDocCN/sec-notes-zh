@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P21：022 - Better Privacy Through Offense： How To Build a Privacy Red Team - 坤坤武特 - BV1WK41167dt
+# P21：022 - Better Privacy Through Offense： How To Build a Privacy Red Team - 坤坤武特 - BV1WK41167dt
 
 ![](img/94ddd219c2295d3671d0d66fff0b6540_0.png)
 

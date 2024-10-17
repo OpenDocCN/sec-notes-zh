@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P27：028 - A Fully Trained Jedi, You Are Not - 坤坤武特 - BV1WK41167dt
+# P27：028 - A Fully Trained Jedi, You Are Not - 坤坤武特 - BV1WK41167dt
 
 ![](img/730bd8e99bf6b038537caae9f18021e3_0.png)
 

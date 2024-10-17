@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P4：004 - Is WebAssembly Really Safe？ -- Wasm VM Escape and RCE Vulnerabilities Have - 坤坤武特 - BV1WK41167dt
+# P4：004 - Is WebAssembly Really Safe？ -- Wasm VM Escape and RCE Vulnerabilities Have - 坤坤武特 - BV1WK41167dt
 
 ![](img/6226ee4127a85c61dc0a1b3013c002c5_0.png)
 

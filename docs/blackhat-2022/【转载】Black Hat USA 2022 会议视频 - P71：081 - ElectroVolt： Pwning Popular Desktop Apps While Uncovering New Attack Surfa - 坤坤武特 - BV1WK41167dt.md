@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P71：081 - ElectroVolt： Pwning Popular Desktop Apps While Uncovering New Attack Surfa - 坤坤武特 - BV1WK41167dt
+# P71：081 - ElectroVolt： Pwning Popular Desktop Apps While Uncovering New Attack Surfa - 坤坤武特 - BV1WK41167dt
 
  [MUSIC PLAYING]。
 

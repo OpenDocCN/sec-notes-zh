@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P37：039 - No One Is Entitled to Their Own Facts, Except in Cybersecurity？ - 坤坤武特 - BV1WK41167dt
+# P37：039 - No One Is Entitled to Their Own Facts, Except in Cybersecurity？ - 坤坤武特 - BV1WK41167dt
 
 ![](img/19f3cb0a902cee0ff09dc4e5327f03be_0.png)
 

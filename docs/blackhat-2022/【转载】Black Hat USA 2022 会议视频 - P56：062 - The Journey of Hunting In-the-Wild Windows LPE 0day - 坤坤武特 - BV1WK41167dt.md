@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P56：062 - The Journey of Hunting In-the-Wild Windows LPE 0day - 坤坤武特 - BV1WK41167dt
+# P56：062 - The Journey of Hunting In-the-Wild Windows LPE 0day - 坤坤武特 - BV1WK41167dt
 
 ![](img/81fed60ec2cfbdfe06d5c42c7c9b9325_0.png)
 

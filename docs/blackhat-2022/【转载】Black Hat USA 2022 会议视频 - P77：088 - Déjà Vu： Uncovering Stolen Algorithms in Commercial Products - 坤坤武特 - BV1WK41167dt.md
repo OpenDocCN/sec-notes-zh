@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P77：088 - Déjà Vu： Uncovering Stolen Algorithms in Commercial Products - 坤坤武特 - BV1WK41167dt
+# P77：088 - Déjà Vu： Uncovering Stolen Algorithms in Commercial Products - 坤坤武特 - BV1WK41167dt
 
 ![](img/1cdd5c7f34bb0514c3a6d6386bf1277e_0.png)
 

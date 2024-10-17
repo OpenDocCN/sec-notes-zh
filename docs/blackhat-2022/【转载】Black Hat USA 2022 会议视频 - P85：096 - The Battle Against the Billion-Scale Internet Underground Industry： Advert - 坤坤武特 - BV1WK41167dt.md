@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P85：096 - The Battle Against the Billion-Scale Internet Underground Industry： Advert - 坤坤武特 - BV1WK41167dt
+# P85：096 - The Battle Against the Billion-Scale Internet Underground Industry： Advert - 坤坤武特 - BV1WK41167dt
 
 ![](img/d2a6a2351cda96e128c6e95b12eba226_0.png)
 

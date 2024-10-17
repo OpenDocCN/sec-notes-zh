@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P68：077 - Ghost in the Wireless, iwlwifi Edition - 坤坤武特 - BV1WK41167dt
+# P68：077 - Ghost in the Wireless, iwlwifi Edition - 坤坤武特 - BV1WK41167dt
 
 ![](img/2f27413954275172f71a49eca34138aa_0.png)
 

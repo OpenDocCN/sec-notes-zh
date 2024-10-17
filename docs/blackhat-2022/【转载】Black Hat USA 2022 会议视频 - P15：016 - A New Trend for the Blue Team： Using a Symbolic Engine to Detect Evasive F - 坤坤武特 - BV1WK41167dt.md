@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P15：016 - A New Trend for the Blue Team： Using a Symbolic Engine to Detect Evasive F - 坤坤武特 - BV1WK41167dt
+# P15：016 - A New Trend for the Blue Team： Using a Symbolic Engine to Detect Evasive F - 坤坤武特 - BV1WK41167dt
 
 ![](img/dbbc018bfff20283bb0f15e7e66a7729_0.png)
 

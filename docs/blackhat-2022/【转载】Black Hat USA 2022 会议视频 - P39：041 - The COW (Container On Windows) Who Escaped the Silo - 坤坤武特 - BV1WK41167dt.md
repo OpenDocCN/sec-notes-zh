@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P39：041 - The COW (Container On Windows) Who Escaped the Silo - 坤坤武特 - BV1WK41167dt
+# P39：041 - The COW (Container On Windows) Who Escaped the Silo - 坤坤武特 - BV1WK41167dt
 
 ![](img/022a802526646832902ba5657ed04f7b_0.png)
 

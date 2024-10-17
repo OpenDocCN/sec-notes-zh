@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P18：019 - Monitoring Surveillance Vendors： A Deep Dive into In-the-Wild Android Full - 坤坤武特 - BV1WK41167dt
+# P18：019 - Monitoring Surveillance Vendors： A Deep Dive into In-the-Wild Android Full - 坤坤武特 - BV1WK41167dt
 
 ![](img/747a05917b0ad23b7cc119d87c386e73_0.png)
 

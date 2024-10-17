@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P73：084 - DNSSEC Downgrade Attacks - 坤坤武特 - BV1WK41167dt
+# P73：084 - DNSSEC Downgrade Attacks - 坤坤武特 - BV1WK41167dt
 
 ![](img/ee76459494a856de0297cec3562f7756_0.png)
 

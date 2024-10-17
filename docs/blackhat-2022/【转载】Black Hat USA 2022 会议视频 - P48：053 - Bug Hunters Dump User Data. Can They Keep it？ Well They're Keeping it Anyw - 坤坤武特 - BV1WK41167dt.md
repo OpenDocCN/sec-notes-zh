@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P48：053 - Bug Hunters Dump User Data. Can They Keep it？ Well They're Keeping it Anyw - 坤坤武特 - BV1WK41167dt
+# P48：053 - Bug Hunters Dump User Data. Can They Keep it？ Well They're Keeping it Anyw - 坤坤武特 - BV1WK41167dt
 
 ![](img/a16c4795d0fadd7d8ad80644fa9d5a4e_0.png)
 

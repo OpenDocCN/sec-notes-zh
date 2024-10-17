@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P2：002 - Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS - 坤坤武特 - BV1WK41167dt
+# P2：002 - Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS - 坤坤武特 - BV1WK41167dt
 
 ![](img/8ebaa6666fda9e01f598140a8d82a5f2_0.png)
 

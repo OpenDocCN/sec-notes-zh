@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P54：059 - Trust Dies in Darkness： Shedding Light on Samsung's TrustZone Keymaster De - 坤坤武特 - BV1WK41167dt
+# P54：059 - Trust Dies in Darkness： Shedding Light on Samsung's TrustZone Keymaster De - 坤坤武特 - BV1WK41167dt
 
 ![](img/614951869b3a4ae623be0324ecbea0de_0.png)
 

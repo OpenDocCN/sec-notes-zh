@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P67：076 - From Hackathon to Hacked： Web3's Security Journey - 坤坤武特 - BV1WK41167dt
+# P67：076 - From Hackathon to Hacked： Web3's Security Journey - 坤坤武特 - BV1WK41167dt
 
 ![](img/f88d78632b7fd672a0c10e3779b4c245_0.png)
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P24：025 - All Your GNN Models and Data Belong to Me - 坤坤武特 - BV1WK41167dt
+# P24：025 - All Your GNN Models and Data Belong to Me - 坤坤武特 - BV1WK41167dt
 
 ![](img/00f924c1e3c11236601f4993b56d9034_0.png)
 

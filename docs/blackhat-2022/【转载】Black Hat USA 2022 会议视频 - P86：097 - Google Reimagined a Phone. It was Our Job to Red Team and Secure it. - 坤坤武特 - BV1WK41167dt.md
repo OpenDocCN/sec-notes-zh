@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P86：097 - Google Reimagined a Phone. It was Our Job to Red Team and Secure it. - 坤坤武特 - BV1WK41167dt
+# P86：097 - Google Reimagined a Phone. It was Our Job to Red Team and Secure it. - 坤坤武特 - BV1WK41167dt
 
 ![](img/604a31567d6f60e71bfe7cac07e05e52_0.png)
 

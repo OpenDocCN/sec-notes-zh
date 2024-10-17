@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P57：064 - Browser-Powered Desync Attacks： A New Frontier in HTTP Request Smuggling - 坤坤武特 - BV1WK41167dt
+# P57：064 - Browser-Powered Desync Attacks： A New Frontier in HTTP Request Smuggling - 坤坤武特 - BV1WK41167dt
 
 ![](img/b34a6e440c65fcf843fee21d655f4b7a_0.png)
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P20：021 - Blasting Event-Driven Cornucopia： WMI-based User-Space Attacks Blind SIEMs - 坤坤武特 - BV1WK41167dt
+# P20：021 - Blasting Event-Driven Cornucopia： WMI-based User-Space Attacks Blind SIEMs - 坤坤武特 - BV1WK41167dt
 
  [MUSIC]。
 

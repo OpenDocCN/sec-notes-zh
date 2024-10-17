@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P40：043 - Keynote： Black Hat at 25： Where Do We Go from Here？ - 坤坤武特 - BV1WK41167dt
+# P40：043 - Keynote： Black Hat at 25： Where Do We Go from Here？ - 坤坤武特 - BV1WK41167dt
 
 ![](img/95e2bd0b7ec94eabea0044b6682bd9f3_0.png)
 

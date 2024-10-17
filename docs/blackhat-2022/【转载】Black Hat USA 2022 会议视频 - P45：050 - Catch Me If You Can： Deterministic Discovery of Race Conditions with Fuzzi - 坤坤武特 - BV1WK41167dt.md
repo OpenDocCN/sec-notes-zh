@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P45：050 - Catch Me If You Can： Deterministic Discovery of Race Conditions with Fuzzi - 坤坤武特 - BV1WK41167dt
+# P45：050 - Catch Me If You Can： Deterministic Discovery of Race Conditions with Fuzzi - 坤坤武特 - BV1WK41167dt
 
 ![](img/0bf087859a9c62054bd4eb0c711e409f_0.png)
 

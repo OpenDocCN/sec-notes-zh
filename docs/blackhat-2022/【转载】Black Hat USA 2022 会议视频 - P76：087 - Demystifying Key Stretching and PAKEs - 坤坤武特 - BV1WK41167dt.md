@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P76：087 - Demystifying Key Stretching and PAKEs - 坤坤武特 - BV1WK41167dt
+# P76：087 - Demystifying Key Stretching and PAKEs - 坤坤武特 - BV1WK41167dt
 
 ![](img/1727df72f4b9ef61113ac9789e3ac49a_0.png)
 

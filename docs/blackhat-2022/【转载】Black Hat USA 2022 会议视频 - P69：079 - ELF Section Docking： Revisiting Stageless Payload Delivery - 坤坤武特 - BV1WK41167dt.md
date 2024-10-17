@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P69：079 - ELF Section Docking： Revisiting Stageless Payload Delivery - 坤坤武特 - BV1WK41167dt
+# P69：079 - ELF Section Docking： Revisiting Stageless Payload Delivery - 坤坤武特 - BV1WK41167dt
 
 ![](img/30a20704841e5fce9cd5d9a85db87a1b_0.png)
 

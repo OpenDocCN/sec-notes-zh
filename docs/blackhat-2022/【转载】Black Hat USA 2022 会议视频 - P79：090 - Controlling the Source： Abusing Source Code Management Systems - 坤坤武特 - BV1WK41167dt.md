@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P79：090 - Controlling the Source： Abusing Source Code Management Systems - 坤坤武特 - BV1WK41167dt
+# P79：090 - Controlling the Source： Abusing Source Code Management Systems - 坤坤武特 - BV1WK41167dt
 
 ![](img/8145e716e26e3ea724b933ade4cf32ff_0.png)
 

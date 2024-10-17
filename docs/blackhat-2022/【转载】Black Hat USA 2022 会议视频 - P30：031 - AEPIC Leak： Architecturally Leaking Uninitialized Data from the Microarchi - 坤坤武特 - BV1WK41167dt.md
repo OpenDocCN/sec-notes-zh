@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P30：031 - AEPIC Leak： Architecturally Leaking Uninitialized Data from the Microarchi - 坤坤武特 - BV1WK41167dt
+# P30：031 - AEPIC Leak： Architecturally Leaking Uninitialized Data from the Microarchi - 坤坤武特 - BV1WK41167dt
 
 ![](img/61729e77644fbb3cffb2e899451c4a73_0.png)
 

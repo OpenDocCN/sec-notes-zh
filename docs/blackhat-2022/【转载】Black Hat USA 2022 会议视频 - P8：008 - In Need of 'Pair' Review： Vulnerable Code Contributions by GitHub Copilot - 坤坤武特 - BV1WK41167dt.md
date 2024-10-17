@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P8：008 - In Need of 'Pair' Review： Vulnerable Code Contributions by GitHub Copilot - 坤坤武特 - BV1WK41167dt
+# P8：008 - In Need of 'Pair' Review： Vulnerable Code Contributions by GitHub Copilot - 坤坤武特 - BV1WK41167dt
 
 ![](img/9320c9b312efcbbec994793beaa80d3f_0.png)
 

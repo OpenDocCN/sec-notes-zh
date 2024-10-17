@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P82：093 - Charged by an Elephant – An APT Fabricating Evidence to Throw You In Jail - 坤坤武特 - BV1WK41167dt
+# P82：093 - Charged by an Elephant – An APT Fabricating Evidence to Throw You In Jail - 坤坤武特 - BV1WK41167dt
 
  (upbeat music)。
 

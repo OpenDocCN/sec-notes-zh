@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P51：056 - Locknote： Conclusions and Key Takeaways from Black Hat USA 2022 - 坤坤武特 - BV1WK41167dt
+# P51：056 - Locknote： Conclusions and Key Takeaways from Black Hat USA 2022 - 坤坤武特 - BV1WK41167dt
 
 ![](img/ba665f16b703ef6c79007a25a83d9d3a_0.png)
 

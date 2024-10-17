@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P31：032 - A Dirty Little History： Bypassing Spectre Hardware Defenses to Leak Kernel - 坤坤武特 - BV1WK41167dt
+# P31：032 - A Dirty Little History： Bypassing Spectre Hardware Defenses to Leak Kernel - 坤坤武特 - BV1WK41167dt
 
 ![](img/c1cd360126a738286ed5b9d3d72a5224_0.png)
 

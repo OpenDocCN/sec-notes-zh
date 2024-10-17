@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P81：092 - Trying to Be Everything to Everyone： Let’s Talk About Burnout - 坤坤武特 - BV1WK41167dt
+# P81：092 - Trying to Be Everything to Everyone： Let’s Talk About Burnout - 坤坤武特 - BV1WK41167dt
 
 ![](img/10b3dc31fd739db68205f7d7e21ba58c_0.png)
 

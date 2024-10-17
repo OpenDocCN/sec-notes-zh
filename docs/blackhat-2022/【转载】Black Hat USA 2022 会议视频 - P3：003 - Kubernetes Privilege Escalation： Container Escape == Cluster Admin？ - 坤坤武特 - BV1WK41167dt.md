@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P3：003 - Kubernetes Privilege Escalation： Container Escape == Cluster Admin？ - 坤坤武特 - BV1WK41167dt
+# P3：003 - Kubernetes Privilege Escalation： Container Escape == Cluster Admin？ - 坤坤武特 - BV1WK41167dt
 
 ![](img/a3e34b2ec696dc1e7cb94a9ee599b0fe_0.png)
 

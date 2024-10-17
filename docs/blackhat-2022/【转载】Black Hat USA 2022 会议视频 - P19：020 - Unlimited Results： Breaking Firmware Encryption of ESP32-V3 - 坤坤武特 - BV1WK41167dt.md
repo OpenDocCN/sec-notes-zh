@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P19：020 - Unlimited Results： Breaking Firmware Encryption of ESP32-V3 - 坤坤武特 - BV1WK41167dt
+# P19：020 - Unlimited Results： Breaking Firmware Encryption of ESP32-V3 - 坤坤武特 - BV1WK41167dt
 
 ![](img/ac678136fa7b2a3a1d2e2b8b794d7c7d_0.png)
 

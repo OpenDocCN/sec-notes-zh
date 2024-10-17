@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P66：075 - Glitched on Earth by Humans： A Black-Box Security Evaluation of the SpaceX - 坤坤武特 - BV1WK41167dt
+# P66：075 - Glitched on Earth by Humans： A Black-Box Security Evaluation of the SpaceX - 坤坤武特 - BV1WK41167dt
 
 ![](img/886114398aaf87b27830e1fd1a20947e_0.png)
 

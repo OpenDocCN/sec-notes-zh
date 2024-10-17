@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P13：013 - Backdooring and Hijacking Azure AD Accounts by Abusing External Identities - 坤坤武特 - BV1WK41167dt
+# P13：013 - Backdooring and Hijacking Azure AD Accounts by Abusing External Identities - 坤坤武特 - BV1WK41167dt
 
 ![](img/19ca8cac2766491063c13c5e21d9833f_0.png)
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P5：005 - Invisible Finger： Practical Electromagnetic Interference Attack on Touchsc - 坤坤武特 - BV1WK41167dt
+# P5：005 - Invisible Finger： Practical Electromagnetic Interference Attack on Touchsc - 坤坤武特 - BV1WK41167dt
 
 ![](img/e209f4e5bfc1003594986ca9aa39d461_0.png)
 

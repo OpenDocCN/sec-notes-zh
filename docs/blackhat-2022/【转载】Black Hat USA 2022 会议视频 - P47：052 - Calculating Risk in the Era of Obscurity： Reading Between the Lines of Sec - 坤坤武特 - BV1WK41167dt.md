@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P47：052 - Calculating Risk in the Era of Obscurity： Reading Between the Lines of Sec - 坤坤武特 - BV1WK41167dt
+# P47：052 - Calculating Risk in the Era of Obscurity： Reading Between the Lines of Sec - 坤坤武特 - BV1WK41167dt
 
 ![](img/af7461337fb34aebd96f5e8277476b98_0.png)
 

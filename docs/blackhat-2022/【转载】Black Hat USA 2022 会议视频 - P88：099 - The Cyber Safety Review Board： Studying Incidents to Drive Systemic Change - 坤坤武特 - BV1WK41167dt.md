@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P88：099 - The Cyber Safety Review Board： Studying Incidents to Drive Systemic Change - 坤坤武特 - BV1WK41167dt
+# P88：099 - The Cyber Safety Review Board： Studying Incidents to Drive Systemic Change - 坤坤武特 - BV1WK41167dt
 
 ![](img/1b98e014bddc8862b254b272b59e99b3_0.png)
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P43：046 - RollBack - A New Time-Agnostic Replay Attack Against the Automotive Remote - 坤坤武特 - BV1WK41167dt
+# P43：046 - RollBack - A New Time-Agnostic Replay Attack Against the Automotive Remote - 坤坤武特 - BV1WK41167dt
 
  [MUSIC PLAYING]。
 

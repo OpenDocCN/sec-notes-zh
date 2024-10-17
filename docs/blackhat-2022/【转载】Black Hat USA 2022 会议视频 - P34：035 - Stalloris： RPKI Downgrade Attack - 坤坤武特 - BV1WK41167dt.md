@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P34：035 - Stalloris： RPKI Downgrade Attack - 坤坤武特 - BV1WK41167dt
+# P34：035 - Stalloris： RPKI Downgrade Attack - 坤坤武特 - BV1WK41167dt
 
 ![](img/d960f2ea495f207a85226e0f5bddf38a_0.png)
 

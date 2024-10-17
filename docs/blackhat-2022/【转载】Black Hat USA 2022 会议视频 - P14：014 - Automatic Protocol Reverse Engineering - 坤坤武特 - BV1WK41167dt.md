@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P14：014 - Automatic Protocol Reverse Engineering - 坤坤武特 - BV1WK41167dt
+# P14：014 - Automatic Protocol Reverse Engineering - 坤坤武特 - BV1WK41167dt
 
 ![](img/7217ca4bb7958c7d701b121302650384_0.png)
 

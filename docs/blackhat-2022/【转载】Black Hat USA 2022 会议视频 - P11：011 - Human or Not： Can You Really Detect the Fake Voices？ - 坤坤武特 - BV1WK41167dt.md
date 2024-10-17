@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P11：011 - Human or Not： Can You Really Detect the Fake Voices？ - 坤坤武特 - BV1WK41167dt
+# P11：011 - Human or Not： Can You Really Detect the Fake Voices？ - 坤坤武特 - BV1WK41167dt
 
 ![](img/68208b611761a51fd417a1ae9ee0697b_0.png)
 

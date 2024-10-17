@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P58：065 - BrokenMesh： New Attack Surfaces of Bluetooth Mesh - 坤坤武特 - BV1WK41167dt
+# P58：065 - BrokenMesh： New Attack Surfaces of Bluetooth Mesh - 坤坤武特 - BV1WK41167dt
 
 ![](img/4db5f81d33524dfe54d218b8e39da1f8_0.png)
 

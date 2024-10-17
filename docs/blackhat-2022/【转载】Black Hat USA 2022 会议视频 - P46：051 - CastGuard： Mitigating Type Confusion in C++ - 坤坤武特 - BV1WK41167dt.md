@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P46：051 - CastGuard： Mitigating Type Confusion in C++ - 坤坤武特 - BV1WK41167dt
+# P46：051 - CastGuard： Mitigating Type Confusion in C++ - 坤坤武特 - BV1WK41167dt
 
  [MUSIC]。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P29：030 - ＂No Mr. Cyber Threat!＂ - A Psychological Approach To Managing the Fail-to- - 坤坤武特 - BV1WK41167dt
+# P29：030 - ＂No Mr. Cyber Threat!＂ - A Psychological Approach To Managing the Fail-to- - 坤坤武特 - BV1WK41167dt
 
 现在我很荣幸地欢迎大家上台，西蒙拥有它，是呀，非常感谢，在一千九百六十一，一个28岁的纽约酒保下班回家，现在是大清早，天很黑，她在路上看到一个人，当她回家的时候，不应该认出他来。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P44：049 - Process Injection： Breaking All macOS Security Layers With a Single Vulner - 坤坤武特 - BV1WK41167dt
+# P44：049 - Process Injection： Breaking All macOS Security Layers With a Single Vulner - 坤坤武特 - BV1WK41167dt
 
 ![](img/35e64788b82224d5b25845810aa16e2e_0.png)
 

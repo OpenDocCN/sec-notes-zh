@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P41：044 - Smishmash - Text Based 2fa Spoofing Using OSINT, Phishing Techniques and a - 坤坤武特 - BV1WK41167dt
+# P41：044 - Smishmash - Text Based 2fa Spoofing Using OSINT, Phishing Techniques and a - 坤坤武特 - BV1WK41167dt
 
 ![](img/ab23f8dec51a8da6eb120169bee426ad_0.png)
 

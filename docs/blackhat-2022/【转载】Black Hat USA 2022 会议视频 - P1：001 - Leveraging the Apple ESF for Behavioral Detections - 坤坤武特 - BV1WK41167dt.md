@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P1：001 - Leveraging the Apple ESF for Behavioral Detections - 坤坤武特 - BV1WK41167dt
+# P1：001 - Leveraging the Apple ESF for Behavioral Detections - 坤坤武特 - BV1WK41167dt
 
 ![](img/78f0f38099f765a2070cf4c1829d2b8e_0.png)
 

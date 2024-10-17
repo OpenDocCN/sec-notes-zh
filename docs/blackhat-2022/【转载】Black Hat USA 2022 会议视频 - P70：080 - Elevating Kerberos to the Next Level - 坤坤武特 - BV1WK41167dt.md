@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P70：080 - Elevating Kerberos to the Next Level - 坤坤武特 - BV1WK41167dt
+# P70：080 - Elevating Kerberos to the Next Level - 坤坤武特 - BV1WK41167dt
 
 ![](img/dd217b6c303677765a80cf6c690ea07a_0.png)
 

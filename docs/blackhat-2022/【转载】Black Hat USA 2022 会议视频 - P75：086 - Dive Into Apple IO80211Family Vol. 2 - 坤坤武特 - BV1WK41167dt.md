@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P75：086 - Dive Into Apple IO80211Family Vol. 2 - 坤坤武特 - BV1WK41167dt
+# P75：086 - Dive Into Apple IO80211Family Vol. 2 - 坤坤武特 - BV1WK41167dt
 
 ![](img/1e267ca39eed53179f7e45540fb9b086_0.png)
 

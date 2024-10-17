@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P52：057 - Whip the Whisperer： Simulating Side Channel Leakage - 坤坤武特 - BV1WK41167dt
+# P52：057 - Whip the Whisperer： Simulating Side Channel Leakage - 坤坤武特 - BV1WK41167dt
 
 ![](img/41c4d0460a8ca893607faddef8f38ec6_0.png)
 

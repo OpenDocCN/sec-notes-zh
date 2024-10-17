@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P26：027 - AAD Joined Machines - The New Lateral Movement - 坤坤武特 - BV1WK41167dt
+# P26：027 - AAD Joined Machines - The New Lateral Movement - 坤坤武特 - BV1WK41167dt
 
  [MUSIC]。
 

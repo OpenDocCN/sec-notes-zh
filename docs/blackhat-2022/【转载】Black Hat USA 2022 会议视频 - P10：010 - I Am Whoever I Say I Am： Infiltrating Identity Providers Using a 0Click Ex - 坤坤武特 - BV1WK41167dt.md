@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P10：010 - I Am Whoever I Say I Am： Infiltrating Identity Providers Using a 0Click Ex - 坤坤武特 - BV1WK41167dt
+# P10：010 - I Am Whoever I Say I Am： Infiltrating Identity Providers Using a 0Click Ex - 坤坤武特 - BV1WK41167dt
 
 ![](img/90f7b12665c99e90c73925aaab90e346_0.png)
 

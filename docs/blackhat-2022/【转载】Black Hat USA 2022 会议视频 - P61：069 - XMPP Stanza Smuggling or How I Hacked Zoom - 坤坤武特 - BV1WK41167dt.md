@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P61：069 - XMPP Stanza Smuggling or How I Hacked Zoom - 坤坤武特 - BV1WK41167dt
+# P61：069 - XMPP Stanza Smuggling or How I Hacked Zoom - 坤坤武特 - BV1WK41167dt
 
 ![](img/913cafcbd12ec169ecbcdaf3a96febfb_0.png)
 

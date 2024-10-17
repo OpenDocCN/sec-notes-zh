@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P42：045 - Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and - 坤坤武特 - BV1WK41167dt
+# P42：045 - Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and - 坤坤武特 - BV1WK41167dt
 
 ![](img/63657aa9d34513faa3f9d11e07419eb0_0.png)
 

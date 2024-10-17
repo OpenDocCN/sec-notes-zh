@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P65：073 - Go With the Flow： Enforcing Program Behavior Through Syscall Sequences and - 坤坤武特 - BV1WK41167dt
+# P65：073 - Go With the Flow： Enforcing Program Behavior Through Syscall Sequences and - 坤坤武特 - BV1WK41167dt
 
 ![](img/489d5bdda1fda82055537e9f7b9af067_0.png)
 

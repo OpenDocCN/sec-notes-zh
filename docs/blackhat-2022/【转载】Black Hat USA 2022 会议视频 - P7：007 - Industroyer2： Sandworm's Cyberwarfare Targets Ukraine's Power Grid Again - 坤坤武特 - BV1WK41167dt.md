@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P7：007 - Industroyer2： Sandworm's Cyberwarfare Targets Ukraine's Power Grid Again - 坤坤武特 - BV1WK41167dt
+# P7：007 - Industroyer2： Sandworm's Cyberwarfare Targets Ukraine's Power Grid Again - 坤坤武特 - BV1WK41167dt
 
 ![](img/8bc65c26d2e77712a960f0abdc45ef0d_0.png)
 

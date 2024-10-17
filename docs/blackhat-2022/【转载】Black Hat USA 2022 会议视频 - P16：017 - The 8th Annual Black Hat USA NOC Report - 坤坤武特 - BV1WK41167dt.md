@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P16：017 - The 8th Annual Black Hat USA NOC Report - 坤坤武特 - BV1WK41167dt
+# P16：017 - The 8th Annual Black Hat USA NOC Report - 坤坤武特 - BV1WK41167dt
 
 ![](img/154b0ac82aca7edb731d28f518c214c2_0.png)
 

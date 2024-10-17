@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2022 会议视频 - P80：091 - Chasing Your Tail With a Raspberry Pi - 坤坤武特 - BV1WK41167dt
+# P80：091 - Chasing Your Tail With a Raspberry Pi - 坤坤武特 - BV1WK41167dt
 
 ![](img/76b59ece07cb41df77599f6e95cacfb5_0.png)
 
