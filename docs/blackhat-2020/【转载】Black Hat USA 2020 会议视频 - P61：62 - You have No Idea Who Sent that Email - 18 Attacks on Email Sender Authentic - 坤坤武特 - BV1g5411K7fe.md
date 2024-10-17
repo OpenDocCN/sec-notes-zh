@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P61：62 - You have No Idea Who Sent that Email - 18 Attacks on Email Sender Authentic - 坤坤武特 - BV1g5411K7fe
+# P61：62 - You have No Idea Who Sent that Email - 18 Attacks on Email Sender Authentic - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone， I'm Jai Jun Ten。
 

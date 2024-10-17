@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P40：41 - Experimenting with Real-Time Event Feeds - 坤坤武特 - BV1g5411K7fe
+# P40：41 - Experimenting with Real-Time Event Feeds - 坤坤武特 - BV1g5411K7fe
 
  Welcome everyone。 The tools are currently available for log analysis in SOC are complicated and。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P6：06 - Demystifying Modern Windows Rootkits - 坤坤武特 - BV1g5411K7fe
+# P6：06 - Demystifying Modern Windows Rootkits - 坤坤武特 - BV1g5411K7fe
 
  Thanks for coming out to my talk。
 

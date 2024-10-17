@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P17：17 - Virtually Private Networks - 坤坤武特 - BV1g5411K7fe
+# P17：17 - Virtually Private Networks - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone。 My name is Shalf and Evolt。 I'm joined today by my colleague， Vikas Ross。
 

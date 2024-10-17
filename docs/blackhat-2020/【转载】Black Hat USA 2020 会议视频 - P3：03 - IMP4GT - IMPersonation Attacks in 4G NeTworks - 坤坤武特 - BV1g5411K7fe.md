@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P3：03 - IMP4GT - IMPersonation Attacks in 4G NeTworks - 坤坤武特 - BV1g5411K7fe
+# P3：03 - IMP4GT - IMPersonation Attacks in 4G NeTworks - 坤坤武特 - BV1g5411K7fe
 
  Hi everyone and welcome to my talk about the Impact Attack。
 

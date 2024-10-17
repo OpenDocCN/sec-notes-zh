@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P47：48 - Breaking Brains, Solving Problems - Lessons Learned from 2 Years of Setting - 坤坤武特 - BV1g5411K7fe
+# P47：48 - Breaking Brains, Solving Problems - Lessons Learned from 2 Years of Setting - 坤坤武特 - BV1g5411K7fe
 
  [Music]。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P56：57 - HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challen - 坤坤武特 - BV1g5411K7fe
+# P56：57 - HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challen - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

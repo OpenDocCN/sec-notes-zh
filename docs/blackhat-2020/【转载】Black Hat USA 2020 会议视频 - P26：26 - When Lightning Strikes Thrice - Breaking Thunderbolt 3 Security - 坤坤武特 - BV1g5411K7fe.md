@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P26：26 - When Lightning Strikes Thrice - Breaking Thunderbolt 3 Security - 坤坤武特 - BV1g5411K7fe
+# P26：26 - When Lightning Strikes Thrice - Breaking Thunderbolt 3 Security - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone。 It's really great to be here。 This is my first time in Black Hat， so it's。
 

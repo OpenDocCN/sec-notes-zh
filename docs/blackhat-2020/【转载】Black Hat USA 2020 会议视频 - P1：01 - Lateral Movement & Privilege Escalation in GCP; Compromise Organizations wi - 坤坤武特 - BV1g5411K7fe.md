@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P1：01 - Lateral Movement & Privilege Escalation in GCP; Compromise Organizations wi - 坤坤武特 - BV1g5411K7fe
+# P1：01 - Lateral Movement & Privilege Escalation in GCP; Compromise Organizations wi - 坤坤武特 - BV1g5411K7fe
 
  My name is Allison。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P64：65 - Multiple Bugs in Multi-Party Computation - Breaking Cryptocurrency's Strong - 坤坤武特 - BV1g5411K7fe
+# P64：65 - Multiple Bugs in Multi-Party Computation - Breaking Cryptocurrency's Strong - 坤坤武特 - BV1g5411K7fe
 
  Welcome to our talk where we are going to present new attacks on cryptocurrency OS。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P20：20 - A Framework for Evaluating and Patching the Human Factor in Cybersecurity - 坤坤武特 - BV1g5411K7fe
+# P20：20 - A Framework for Evaluating and Patching the Human Factor in Cybersecurity - 坤坤武特 - BV1g5411K7fe
 
  [ Music ]。
 

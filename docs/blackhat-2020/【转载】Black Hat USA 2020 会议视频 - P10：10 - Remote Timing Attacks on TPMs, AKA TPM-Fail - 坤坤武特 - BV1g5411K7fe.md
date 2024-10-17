@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P10：10 - Remote Timing Attacks on TPMs, AKA TPM-Fail - 坤坤武特 - BV1g5411K7fe
+# P10：10 - Remote Timing Attacks on TPMs, AKA TPM-Fail - 坤坤武特 - BV1g5411K7fe
 
  Hi everyone， thanks for attending my talk。 Today I'm going to talk about TPMFEL， which。
 

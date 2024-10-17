@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P38：39 - A Little Less Speculation, a Little More Action - Deep Dive into Fuchsia's - 坤坤武特 - BV1g5411K7fe
+# P38：39 - A Little Less Speculation, a Little More Action - Deep Dive into Fuchsia's - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC PLAYING]。
 

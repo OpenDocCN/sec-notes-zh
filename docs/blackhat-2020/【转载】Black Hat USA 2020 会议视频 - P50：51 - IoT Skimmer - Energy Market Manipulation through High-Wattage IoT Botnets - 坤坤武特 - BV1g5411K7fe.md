@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P50：51 - IoT Skimmer - Energy Market Manipulation through High-Wattage IoT Botnets - 坤坤武特 - BV1g5411K7fe
+# P50：51 - IoT Skimmer - Energy Market Manipulation through High-Wattage IoT Botnets - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

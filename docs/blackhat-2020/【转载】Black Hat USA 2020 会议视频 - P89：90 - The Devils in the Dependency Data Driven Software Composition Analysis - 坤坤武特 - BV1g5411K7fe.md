@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P89：90 - The Devils in the Dependency Data Driven Software Composition Analysis - 坤坤武特 - BV1g5411K7fe
+# P89：90 - The Devils in the Dependency Data Driven Software Composition Analysis - 坤坤武特 - BV1g5411K7fe
 
  Most of you have probably heard the analogy that open source is free as in， puppy。 That is。
 

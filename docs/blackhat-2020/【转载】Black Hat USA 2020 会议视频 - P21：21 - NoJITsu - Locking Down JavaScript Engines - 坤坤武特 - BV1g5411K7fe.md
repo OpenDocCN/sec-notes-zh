@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P21：21 - NoJITsu - Locking Down JavaScript Engines - 坤坤武特 - BV1g5411K7fe
+# P21：21 - NoJITsu - Locking Down JavaScript Engines - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone， my name is Timing Park and I'm a PhD student at USHI Irvine。 Today I'm。
 

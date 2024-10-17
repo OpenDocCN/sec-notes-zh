@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P81：82 - Whispers Among the Stars - A Practical Look at Perpetrating Satellite Eaves - 坤坤武特 - BV1g5411K7fe
+# P81：82 - Whispers Among the Stars - A Practical Look at Perpetrating Satellite Eaves - 坤坤武特 - BV1g5411K7fe
 
  It's August 2018。
 

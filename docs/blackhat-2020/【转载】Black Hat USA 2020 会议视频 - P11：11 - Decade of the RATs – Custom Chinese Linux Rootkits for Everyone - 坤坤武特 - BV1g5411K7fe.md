@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P11：11 - Decade of the RATs – Custom Chinese Linux Rootkits for Everyone - 坤坤武特 - BV1g5411K7fe
+# P11：11 - Decade of the RATs – Custom Chinese Linux Rootkits for Everyone - 坤坤武特 - BV1g5411K7fe
 
  Thanks for joining me。
 

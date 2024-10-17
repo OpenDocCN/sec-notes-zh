@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P42：43 - Portable Document Flaws 101 - 坤坤武特 - BV1g5411K7fe
+# P42：43 - Portable Document Flaws 101 - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

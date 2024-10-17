@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P37：38 - Policy Implications of Faulty Cyber Risk Models and How to Fix Them - 坤坤武特 - BV1g5411K7fe
+# P37：38 - Policy Implications of Faulty Cyber Risk Models and How to Fix Them - 坤坤武特 - BV1g5411K7fe
 
  All right。 Hello， I'm Dr。 Wade Baker。 I am here to talk about policy implications of faulty risk models and how we can fix them。
 

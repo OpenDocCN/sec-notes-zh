@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P71：72 - Engineering Empathy - Adapting Software Engineering Principles and Process - 坤坤武特 - BV1g5411K7fe
+# P71：72 - Engineering Empathy - Adapting Software Engineering Principles and Process - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

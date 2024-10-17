@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P63：64 - How I Created My Clone Using AI - Next-Gen Social Engineering - 坤坤武特 - BV1g5411K7fe
+# P63：64 - How I Created My Clone Using AI - Next-Gen Social Engineering - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone。 My name is Tamagna Basun and I am here to talk about how I use AI to。
 

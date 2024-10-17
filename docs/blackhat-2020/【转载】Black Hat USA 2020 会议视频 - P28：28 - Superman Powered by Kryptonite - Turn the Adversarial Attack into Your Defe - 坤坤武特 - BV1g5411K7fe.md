@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P28：28 - Superman Powered by Kryptonite - Turn the Adversarial Attack into Your Defe - 坤坤武特 - BV1g5411K7fe
+# P28：28 - Superman Powered by Kryptonite - Turn the Adversarial Attack into Your Defe - 坤坤武特 - BV1g5411K7fe
 
  Hi everyone。 So my name is Khadam。 So today I'm going to introduce our search Superman。
 

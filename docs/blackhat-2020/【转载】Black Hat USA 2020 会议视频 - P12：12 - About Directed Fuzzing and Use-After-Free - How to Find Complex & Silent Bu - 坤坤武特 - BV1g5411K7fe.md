@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P12：12 - About Directed Fuzzing and Use-After-Free - How to Find Complex & Silent Bu - 坤坤武特 - BV1g5411K7fe
+# P12：12 - About Directed Fuzzing and Use-After-Free - How to Find Complex & Silent Bu - 坤坤武特 - BV1g5411K7fe
 
  Hi everyone， this is Sebastian Barda and Mandugan Bienn from Séralist and University Gonna Blalp。
 

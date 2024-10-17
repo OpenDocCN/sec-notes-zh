@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P59：60 - Stealthily Access Your Android Phones - Bypass the Bluetooth Authentication - 坤坤武特 - BV1g5411K7fe
+# P59：60 - Stealthily Access Your Android Phones - Bypass the Bluetooth Authentication - 坤坤武特 - BV1g5411K7fe
 
  [Music]。
 

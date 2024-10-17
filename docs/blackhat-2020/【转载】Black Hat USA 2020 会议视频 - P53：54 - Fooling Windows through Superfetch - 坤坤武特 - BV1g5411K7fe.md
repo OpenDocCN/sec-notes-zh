@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P53：54 - Fooling Windows through Superfetch - 坤坤武特 - BV1g5411K7fe
+# P53：54 - Fooling Windows through Superfetch - 坤坤武特 - BV1g5411K7fe
 
  [Music]。
 

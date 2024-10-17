@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P88：89 - Stress Testing Democracy Election Integrity During A Global Pandemic - 坤坤武特 - BV1g5411K7fe
+# P88：89 - Stress Testing Democracy Election Integrity During A Global Pandemic - 坤坤武特 - BV1g5411K7fe
 
  In 1999， we launched the first-ever SAS security solution。 Since then。
 

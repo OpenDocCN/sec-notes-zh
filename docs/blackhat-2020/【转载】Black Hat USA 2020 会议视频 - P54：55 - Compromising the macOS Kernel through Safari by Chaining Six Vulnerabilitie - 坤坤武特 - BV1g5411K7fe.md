@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P54：55 - Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilitie - 坤坤武特 - BV1g5411K7fe
+# P54：55 - Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilitie - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone， we will present about compromising the megasconer through a subparty by changing。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P76：77 - The Paramedic's Guide to Surviving Cybersecurity - 坤坤武特 - BV1g5411K7fe
+# P76：77 - The Paramedic's Guide to Surviving Cybersecurity - 坤坤武特 - BV1g5411K7fe
 
  My first call is lead paramedic。
 

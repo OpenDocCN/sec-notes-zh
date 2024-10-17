@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P90：91 - We Went to Iowa and All We Got were These Felony Arrest Records - 坤坤武特 - BV1g5411K7fe
+# P90：91 - We Went to Iowa and All We Got were These Felony Arrest Records - 坤坤武特 - BV1g5411K7fe
 
  Because as an employer， I don't want to see deputies going to fake calls at 100 plus miles an hour to get somewhere when somebody says I'm just checking your response time。
 

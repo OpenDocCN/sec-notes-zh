@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P51：52 - Improving Mental Models of End-to-End Encrypted Communication - 坤坤武特 - BV1g5411K7fe
+# P51：52 - Improving Mental Models of End-to-End Encrypted Communication - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

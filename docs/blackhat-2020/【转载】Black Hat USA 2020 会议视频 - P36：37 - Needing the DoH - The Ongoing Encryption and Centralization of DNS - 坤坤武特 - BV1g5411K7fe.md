@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P36：37 - Needing the DoH - The Ongoing Encryption and Centralization of DNS - 坤坤武特 - BV1g5411K7fe
+# P36：37 - Needing the DoH - The Ongoing Encryption and Centralization of DNS - 坤坤武特 - BV1g5411K7fe
 
  Hello。
 

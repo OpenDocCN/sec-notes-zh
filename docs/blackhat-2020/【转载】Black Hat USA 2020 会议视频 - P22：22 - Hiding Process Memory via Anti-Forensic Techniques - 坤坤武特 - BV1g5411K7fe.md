@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P22：22 - Hiding Process Memory via Anti-Forensic Techniques - 坤坤武特 - BV1g5411K7fe
+# P22：22 - Hiding Process Memory via Anti-Forensic Techniques - 坤坤武特 - BV1g5411K7fe
 
  Hello everybody， this is Frank Bloch and you are watching Hiding Process Memory via。
 

@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P87：88 - Mind Games - Using Data to Solve for the Human Element - 坤坤武特 - BV1g5411K7fe
+# P87：88 - Mind Games - Using Data to Solve for the Human Element - 坤坤武特 - BV1g5411K7fe
 
  Hi， my name is Masha Sedova and today I'm going to be talking to you about Mind Games。
 

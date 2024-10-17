@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P5：05 - A Hacker's Guide to Reducing Side-Channel Attack Surfaces Using Deep-Learni - 坤坤武特 - BV1g5411K7fe
+# P5：05 - A Hacker's Guide to Reducing Side-Channel Attack Surfaces Using Deep-Learni - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC PLAYING]， My name is Lee。
 

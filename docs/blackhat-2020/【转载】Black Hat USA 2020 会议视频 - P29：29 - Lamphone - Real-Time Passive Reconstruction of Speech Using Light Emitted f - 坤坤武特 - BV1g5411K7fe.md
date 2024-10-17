@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P29：29 - Lamphone - Real-Time Passive Reconstruction of Speech Using Light Emitted f - 坤坤武特 - BV1g5411K7fe
+# P29：29 - Lamphone - Real-Time Passive Reconstruction of Speech Using Light Emitted f - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

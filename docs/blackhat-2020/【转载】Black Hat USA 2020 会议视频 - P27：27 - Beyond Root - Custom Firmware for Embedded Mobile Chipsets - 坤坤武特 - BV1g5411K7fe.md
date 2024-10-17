@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P27：27 - Beyond Root - Custom Firmware for Embedded Mobile Chipsets - 坤坤武特 - BV1g5411K7fe
+# P27：27 - Beyond Root - Custom Firmware for Embedded Mobile Chipsets - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone， my name is Christopher Wade and we're going to talk about embedded mobile。
 

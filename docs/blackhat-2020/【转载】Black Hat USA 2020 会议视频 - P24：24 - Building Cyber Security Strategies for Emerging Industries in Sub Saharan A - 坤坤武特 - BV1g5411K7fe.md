@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P24：24 - Building Cyber Security Strategies for Emerging Industries in Sub Saharan A - 坤坤武特 - BV1g5411K7fe
+# P24：24 - Building Cyber Security Strategies for Emerging Industries in Sub Saharan A - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

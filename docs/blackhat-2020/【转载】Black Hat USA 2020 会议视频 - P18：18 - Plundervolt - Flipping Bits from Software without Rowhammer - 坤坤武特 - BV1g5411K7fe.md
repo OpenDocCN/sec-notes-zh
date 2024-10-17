@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P18：18 - Plundervolt - Flipping Bits from Software without Rowhammer - 坤坤武特 - BV1g5411K7fe
+# P18：18 - Plundervolt - Flipping Bits from Software without Rowhammer - 坤坤武特 - BV1g5411K7fe
 
  Hello and welcome to our talk。 My name is Daniel and I will start with introducing you。
 

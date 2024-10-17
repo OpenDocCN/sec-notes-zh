@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P74：75 - Discovering Hidden Properties to Attack the Node.js Ecosystem - 坤坤武特 - BV1g5411K7fe
+# P74：75 - Discovering Hidden Properties to Attack the Node.js Ecosystem - 坤坤武特 - BV1g5411K7fe
 
  Hi everyone， my name is Feng Xiao from Georgia Tech。
 

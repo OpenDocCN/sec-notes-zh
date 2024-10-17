@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P70：71 - Making an Impact from India to the Rest of the World by Building & Nurturin - 坤坤武特 - BV1g5411K7fe
+# P70：71 - Making an Impact from India to the Rest of the World by Building & Nurturin - 坤坤武特 - BV1g5411K7fe
 
  [Music]。
 

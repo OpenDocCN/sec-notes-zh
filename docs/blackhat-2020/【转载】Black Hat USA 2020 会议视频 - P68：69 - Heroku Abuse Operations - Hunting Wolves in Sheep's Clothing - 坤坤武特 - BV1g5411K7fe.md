@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P68：69 - Heroku Abuse Operations - Hunting Wolves in Sheep's Clothing - 坤坤武特 - BV1g5411K7fe
+# P68：69 - Heroku Abuse Operations - Hunting Wolves in Sheep's Clothing - 坤坤武特 - BV1g5411K7fe
 
  Before we begin， I need to mention this forward-looking statement。
 

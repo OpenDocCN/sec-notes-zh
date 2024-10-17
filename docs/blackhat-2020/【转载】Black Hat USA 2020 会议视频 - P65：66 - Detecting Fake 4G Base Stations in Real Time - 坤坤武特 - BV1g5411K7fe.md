@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P65：66 - Detecting Fake 4G Base Stations in Real Time - 坤坤武特 - BV1g5411K7fe
+# P65：66 - Detecting Fake 4G Base Stations in Real Time - 坤坤武特 - BV1g5411K7fe
 
  [ Music ]。
 

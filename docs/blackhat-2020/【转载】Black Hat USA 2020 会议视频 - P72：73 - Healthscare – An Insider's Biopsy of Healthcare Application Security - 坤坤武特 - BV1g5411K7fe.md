@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P72：73 - Healthscare – An Insider's Biopsy of Healthcare Application Security - 坤坤武特 - BV1g5411K7fe
+# P72：73 - Healthscare – An Insider's Biopsy of Healthcare Application Security - 坤坤武特 - BV1g5411K7fe
 
  Welcome to our talk today on healthcare application security。 My name is Seth Vogue。
 

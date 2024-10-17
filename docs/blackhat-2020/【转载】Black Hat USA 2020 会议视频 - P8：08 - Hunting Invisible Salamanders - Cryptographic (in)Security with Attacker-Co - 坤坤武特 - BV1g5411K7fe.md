@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P8：08 - Hunting Invisible Salamanders - Cryptographic (in)Security with Attacker-Co - 坤坤武特 - BV1g5411K7fe
+# P8：08 - Hunting Invisible Salamanders - Cryptographic (in)Security with Attacker-Co - 坤坤武特 - BV1g5411K7fe
 
  Hi， my name is Paul Grubbs and today I'll be presenting my talk Hunting and Visible Salamanders。
 

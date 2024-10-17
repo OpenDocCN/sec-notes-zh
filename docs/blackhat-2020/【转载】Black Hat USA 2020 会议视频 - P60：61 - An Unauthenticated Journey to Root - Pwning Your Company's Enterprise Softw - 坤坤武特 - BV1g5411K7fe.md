@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P60：61 - An Unauthenticated Journey to Root - Pwning Your Company's Enterprise Softw - 坤坤武特 - BV1g5411K7fe
+# P60：61 - An Unauthenticated Journey to Root - Pwning Your Company's Enterprise Softw - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

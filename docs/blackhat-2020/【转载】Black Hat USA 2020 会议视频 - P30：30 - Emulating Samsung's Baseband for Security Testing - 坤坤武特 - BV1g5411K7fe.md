@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P30：30 - Emulating Samsung's Baseband for Security Testing - 坤坤武特 - BV1g5411K7fe
+# P30：30 - Emulating Samsung's Baseband for Security Testing - 坤坤武特 - BV1g5411K7fe
 
  [MUSIC]。
 

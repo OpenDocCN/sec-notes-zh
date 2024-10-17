@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P83：84 - EdTech - The Ultimate APT - 坤坤武特 - BV1g5411K7fe
+# P83：84 - EdTech - The Ultimate APT - 坤坤武特 - BV1g5411K7fe
 
  Good afternoon。 I'm Michelle and I'm really delighted to have this opportunity to talk to you about EDTech。
 

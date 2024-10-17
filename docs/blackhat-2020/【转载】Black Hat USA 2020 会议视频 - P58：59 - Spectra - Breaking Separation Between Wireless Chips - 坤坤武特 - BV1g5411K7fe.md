@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P58：59 - Spectra - Breaking Separation Between Wireless Chips - 坤坤武特 - BV1g5411K7fe
+# P58：59 - Spectra - Breaking Separation Between Wireless Chips - 坤坤武特 - BV1g5411K7fe
 
  Hello everyone and welcome to OITalk Spectra， cracking separation between wireless chips。
 

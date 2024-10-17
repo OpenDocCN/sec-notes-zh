@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P41：42 - Black-Box Laser Fault Injection on a Secure Memory - 坤坤武特 - BV1g5411K7fe
+# P41：42 - Black-Box Laser Fault Injection on a Secure Memory - 坤坤武特 - BV1g5411K7fe
 
  Hello， my name is Olivier and I will present a laser-fault injection performed on a secure。
 

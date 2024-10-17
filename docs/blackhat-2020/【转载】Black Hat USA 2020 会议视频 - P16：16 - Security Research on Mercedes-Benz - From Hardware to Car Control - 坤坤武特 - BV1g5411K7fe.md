@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P16：16 - Security Research on Mercedes-Benz - From Hardware to Car Control - 坤坤武特 - BV1g5411K7fe
+# P16：16 - Security Research on Mercedes-Benz - From Hardware to Car Control - 坤坤武特 - BV1g5411K7fe
 
  Hi and thank you very much for joining this session。
 

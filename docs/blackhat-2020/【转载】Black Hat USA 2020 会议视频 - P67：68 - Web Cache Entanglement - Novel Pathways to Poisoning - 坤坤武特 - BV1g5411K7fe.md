@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P67：68 - Web Cache Entanglement - Novel Pathways to Poisoning - 坤坤武特 - BV1g5411K7fe
+# P67：68 - Web Cache Entanglement - Novel Pathways to Poisoning - 坤坤武特 - BV1g5411K7fe
 
  Good afternoon and welcome to WebCash in Tanglement， Novel Pathways to Poisoning。
 

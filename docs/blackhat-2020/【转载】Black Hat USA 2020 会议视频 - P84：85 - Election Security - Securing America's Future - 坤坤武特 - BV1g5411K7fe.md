@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P84：85 - Election Security - Securing America's Future - 坤坤武特 - BV1g5411K7fe
+# P84：85 - Election Security - Securing America's Future - 坤坤武特 - BV1g5411K7fe
 
  All right。 Well， good morning， everyone。 My name is Chris Krebs。 I'm the director of the。
 

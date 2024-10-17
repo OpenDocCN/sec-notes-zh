@@ -1,4 +1,4 @@
-# 【转载】Black Hat USA 2020 会议视频 - P25：25 - Industrial Protocol Gateways Under Analysis - 坤坤武特 - BV1g5411K7fe
+# P25：25 - Industrial Protocol Gateways Under Analysis - 坤坤武特 - BV1g5411K7fe
 
  Hello and welcome to the talk in Dastral Protocol Getways and their analysis。
 
