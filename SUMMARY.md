@@ -3,6 +3,7 @@
 +   [BlackHat 2025 US 会议笔记](docs/blackhat2025us/README.md)
 +   [漏洞银行大咖面对面](docs/bugbank/README.md)
 +   [合天网络安全笔记](docs/hetian/README.md)
++   [i春秋视频课程笔记](docs/ichunqiu/README.md)
 +   [天草逆向教程笔记](docs/tiancao/README.md)
 +   [小迪安全课程笔记 2024](docs/xiaodi/README.md)
 +   [郁金香游戏辅助教程笔记](docs/yujinxiang/README.md)
