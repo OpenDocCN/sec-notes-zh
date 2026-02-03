@@ -1,4 +1,4 @@
-+   [BloackHat 2022 会议笔记](README.md)
++   [BlackHat 2022 会议笔记](README.md)
 +   [课程 P1-001：利用 Apple 端点安全框架进行行为检测 🛡️](P1-001---Leveraging-the-Apple-ESF-for-Behavioral-Detections---坤坤武特---BV1WK41167dt_note.md)
 +   [课程 P10：010 - 我是我所说的我：利用0点击漏洞渗透身份提供商 🎯](P10-010---I-Am-Whoever-I-Say-I-Am--Infiltrating-Identity-Providers-Using-a-0Click-Ex---坤坤武特---BV1WK41167dt_note.md)
 +   [课程 P11：011 - 人类还是机器？你真的能检测出伪造语音吗？ 🎤🤖](P11-011---Human-or-Not--Can-You-Really-Detect-the-Fake-Voices----坤坤武特---BV1WK41167dt_note.md)
