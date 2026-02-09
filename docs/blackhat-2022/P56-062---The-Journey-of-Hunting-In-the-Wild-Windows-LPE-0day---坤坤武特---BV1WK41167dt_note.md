@@ -1,6 +1,6 @@
-![](img/81fed60ec2cfbdfe06d5c42c7c9b9325_0.png)
-
 # 课程P56：062 - 野外Windows本地权限提升0day狩猎之旅 🎯
+
+![](img/81fed60ec2cfbdfe06d5c42c7c9b9325_0.png)
 
 ![](img/81fed60ec2cfbdfe06d5c42c7c9b9325_2.png)
 

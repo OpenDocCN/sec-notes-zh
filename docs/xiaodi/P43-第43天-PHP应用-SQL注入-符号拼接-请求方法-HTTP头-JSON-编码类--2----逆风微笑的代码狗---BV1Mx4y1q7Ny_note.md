@@ -1,3 +1,5 @@
+# 🛡️ 课程43：PHP应用与SQL注入进阶（2） - 数据请求类型、方法、头部与编码
+
 ![](img/bc030ddf02bf33193a2eb1a349a1ac30_1.png)
 
 ![](img/bc030ddf02bf33193a2eb1a349a1ac30_3.png)
@@ -7,8 +9,6 @@
 ![](img/bc030ddf02bf33193a2eb1a349a1ac30_7.png)
 
 ![](img/bc030ddf02bf33193a2eb1a349a1ac30_9.png)
-
-# 🛡️ 课程43：PHP应用与SQL注入进阶（2） - 数据请求类型、方法、头部与编码
 
 ![](img/bc030ddf02bf33193a2eb1a349a1ac30_11.png)
 

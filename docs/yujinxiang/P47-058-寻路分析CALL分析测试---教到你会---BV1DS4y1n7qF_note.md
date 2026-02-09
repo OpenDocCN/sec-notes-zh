@@ -1,6 +1,6 @@
-![](img/6e917860e4a4b14ab759b4feea99ade8_1.png)
-
 # 逆向工程教程 P47：058-寻路CALL分析测试 🧭
+
+![](img/6e917860e4a4b14ab759b4feea99ade8_1.png)
 
 ![](img/6e917860e4a4b14ab759b4feea99ade8_3.png)
 

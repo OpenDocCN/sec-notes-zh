@@ -1,6 +1,6 @@
-![](img/beab5144f62d0be0ad6d2657af9e16e3_1.png)
-
 # P58：59 - Spectra - 突破无线芯片之间的隔离 - 坤坤武特 - BV1g5411K7fe
+
+![](img/beab5144f62d0be0ad6d2657af9e16e3_1.png)
 
 ![](img/beab5144f62d0be0ad6d2657af9e16e3_3.png)
 

@@ -1,10 +1,10 @@
+# 🛠️ 网络安全就业推荐 - P64：第32天：CobaltStrike Socks代理
+
 ![](img/72d7afdc3e43a452b40212a6f5973dec_0.png)
 
 ![](img/72d7afdc3e43a452b40212a6f5973dec_2.png)
 
 ![](img/72d7afdc3e43a452b40212a6f5973dec_4.png)
-
-# 🛠️ 网络安全就业推荐 - P64：第32天：CobaltStrike Socks代理
 
 ![](img/72d7afdc3e43a452b40212a6f5973dec_6.png)
 

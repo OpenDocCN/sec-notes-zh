@@ -1,12 +1,12 @@
+# 📚 课程名称：JavaEE应用、SpringBoot框架、JWT身份鉴权与打包部署（JAR/WAR） - 第40天
+
 ![](img/d8f07c05240027d10c48a3c4f2867a06_1.png)
 
-# 📚 课程名称：JavaEE应用、SpringBoot框架、JWT身份鉴权与打包部署（JAR/WAR） - 第40天
+## 📖 概述
 
 ![](img/d8f07c05240027d10c48a3c4f2867a06_3.png)
 
 ![](img/d8f07c05240027d10c48a3c4f2867a06_5.png)
-
-## 📖 概述
 
 在本节课中，我们将学习JavaEE应用开发的两个核心环节：使用JWT（JSON Web Token）进行身份鉴权，以及将SpringBoot项目打包为JAR或WAR文件进行部署。理解这些内容对于掌握Java应用的安全机制和上线流程至关重要。
 

@@ -1,6 +1,6 @@
-![](img/9ff9a5c64bf9db4f1e5b4ea16aa8acd1_1.png)
-
 # 课程P46：第9天：Java反序列化之Fastjson与Shiro漏洞利用 🔐
+
+![](img/9ff9a5c64bf9db4f1e5b4ea16aa8acd1_1.png)
 
 在本节课中，我们将学习Java反序列化漏洞中的两个重要案例：Fastjson和Apache Shiro。我们将从漏洞原理、识别方法、检测手段到最终的利用方式，进行系统性的讲解。课程内容力求简单直白，让初学者能够理解并掌握核心概念。
 

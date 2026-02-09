@@ -1,6 +1,6 @@
-![](img/0f56d2972bfdede4640d6eca86cd6943_0.png)
-
 # 无线安全基础教程 P1：初探WiFi安全 🔐
+
+![](img/0f56d2972bfdede4640d6eca86cd6943_0.png)
 
 ![](img/0f56d2972bfdede4640d6eca86cd6943_2.png)
 

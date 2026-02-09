@@ -1,6 +1,6 @@
-![](img/b0765939d3cad08f4a1f85f22c528b18_1.png)
-
 # 课程 P1：域渗透之Windows Access Token攻击 🎯
+
+![](img/b0765939d3cad08f4a1f85f22c528b18_1.png)
 
 ![](img/b0765939d3cad08f4a1f85f22c528b18_3.png)
 

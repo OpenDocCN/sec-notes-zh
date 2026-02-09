@@ -1,6 +1,6 @@
-![](img/456a79a0860a4ba3a5e46e3d2a4c85bd_0.png)
-
 # 课程 P57：068-获取指定NPC对象GetNpcObjForName 🎯
+
+![](img/456a79a0860a4ba3a5e46e3d2a4c85bd_0.png)
 
 在本节课中，我们将学习如何编写一个名为 `GetNpcObjForName` 的函数，用于根据NPC的名字来获取其在游戏内存中的对象地址。这是实现与特定NPC交互功能的关键步骤。
 

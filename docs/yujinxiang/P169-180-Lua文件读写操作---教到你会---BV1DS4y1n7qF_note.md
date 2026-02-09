@@ -1,6 +1,6 @@
-![](img/7cec48798f8140f1c1fa8bfb6c4b5515_1.png)
-
 # 课程 P169：Lua 文件读写操作 📂
+
+![](img/7cec48798f8140f1c1fa8bfb6c4b5515_1.png)
 
 ![](img/7cec48798f8140f1c1fa8bfb6c4b5515_3.png)
 

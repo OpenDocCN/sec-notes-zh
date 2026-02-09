@@ -1,6 +1,6 @@
-![](img/f42b957aa9ce6a769eacc1581c12a612_1.png)
-
 # P13：13 - CloudLeak - DNN Model Extractions from Commercial MLaaS Platforms - 坤坤武特 - BV1g5411K7fe
+
+![](img/f42b957aa9ce6a769eacc1581c12a612_1.png)
 
 ## 概述
 

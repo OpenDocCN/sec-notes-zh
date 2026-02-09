@@ -1,10 +1,10 @@
+# P36：37 - 需要DNS加密 - DNS的持续加密和集中化 - 坤坤武特 - BV1g5411K7fe
+
 ![](img/ef899d31e332b510f703c757e68cfa46_1.png)
 
 ![](img/ef899d31e332b510f703c757e68cfa46_2.png)
 
 ![](img/ef899d31e332b510f703c757e68cfa46_4.png)
-
-# P36：37 - 需要DNS加密 - DNS的持续加密和集中化 - 坤坤武特 - BV1g5411K7fe
 
 ## 概述
 

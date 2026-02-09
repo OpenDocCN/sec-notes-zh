@@ -1,6 +1,6 @@
-![](img/c8fbccbaae3c94071cd7a6f90465d937_1.png)
-
 # P30：30 - Emulating Samsung's Baseband for Security Testing - 坤坤武特 - BV1g5411K7fe
+
+![](img/c8fbccbaae3c94071cd7a6f90465d937_1.png)
 
 ## 概述
 

@@ -1,8 +1,8 @@
+# 课程 P1：39 🔐 突破多层防护，控制你的Shell - Metasploit会话结合DNS协议
+
 ![](img/b6f27f2fddda555cf33048d1d561b2a5_1.png)
 
 ![](img/b6f27f2fddda555cf33048d1d561b2a5_3.png)
-
-# 课程 P1：39 🔐 突破多层防护，控制你的Shell - Metasploit会话结合DNS协议
 
 ![](img/b6f27f2fddda555cf33048d1d561b2a5_5.png)
 

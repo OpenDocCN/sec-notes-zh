@@ -1,6 +1,6 @@
-![](img/ade6b5c4ffbd9556ce40b03426f198ab_0.png)
-
 # 课程P1：暴力破解实战与专属工具定制教程
+
+![](img/ade6b5c4ffbd9556ce40b03426f198ab_0.png)
 
 ## 概述
 

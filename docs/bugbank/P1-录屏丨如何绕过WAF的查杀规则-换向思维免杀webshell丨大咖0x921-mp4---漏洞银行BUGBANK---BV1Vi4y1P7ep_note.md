@@ -1,6 +1,6 @@
-![](img/f7c635a50ff13b55f60ef0705a7a0bab_1.png)
-
 # 课程 P1：换向思维免杀WebShell 🛡️➡️🚫
+
+![](img/f7c635a50ff13b55f60ef0705a7a0bab_1.png)
 
 ![](img/f7c635a50ff13b55f60ef0705a7a0bab_3.png)
 

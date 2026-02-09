@@ -1,8 +1,8 @@
+# P60：61 - An Unauthenticated Journey to Root - Pwning Your Company's Enterprise Software - 坤坤武特 - BV1g5411K7fe
+
 ![](img/9bcb298919c79b20dade4365cb0fbb51_1.png)
 
 ![](img/9bcb298919c79b20dade4365cb0fbb51_2.png)
-
-# P60：61 - An Unauthenticated Journey to Root - Pwning Your Company's Enterprise Software - 坤坤武特 - BV1g5411K7fe
 
 ## 概述
 

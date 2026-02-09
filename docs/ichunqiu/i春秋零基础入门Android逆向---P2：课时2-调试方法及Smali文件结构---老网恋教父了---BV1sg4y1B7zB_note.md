@@ -1,6 +1,6 @@
-![](img/cf495bfa417e2038cf8bee4cba13d2a2_1.png)
-
 # i春秋零基础入门Android逆向 - P2：课时2 调试方法及Smali文件结构 📱
+
+![](img/cf495bfa417e2038cf8bee4cba13d2a2_1.png)
 
 在本节课中，我们将学习Android开发的基础知识，并重点介绍如何调试Android应用以及理解Smali文件的结构。我们将从创建一个简单的“Hello World”应用开始，逐步深入到代码的反编译、修改和调试过程。
 

@@ -1,8 +1,8 @@
+# 🚀 课程27：ThinkPHP框架开发与安全分析
+
 ![](img/ae2424707d1e4df58a1774928b257bca_1.png)
 
 ![](img/ae2424707d1e4df58a1774928b257bca_3.png)
-
-# 🚀 课程27：ThinkPHP框架开发与安全分析
 
 ![](img/ae2424707d1e4df58a1774928b257bca_5.png)
 

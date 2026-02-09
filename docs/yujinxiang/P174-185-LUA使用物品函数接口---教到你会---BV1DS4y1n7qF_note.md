@@ -1,6 +1,6 @@
-![](img/5e740677b051e3a3dabcca913f32eac9_0.png)
-
 # 课程 P174：LUA使用物品函数接口教程 🧪
+
+![](img/5e740677b051e3a3dabcca913f32eac9_0.png)
 
 ![](img/5e740677b051e3a3dabcca913f32eac9_2.png)
 

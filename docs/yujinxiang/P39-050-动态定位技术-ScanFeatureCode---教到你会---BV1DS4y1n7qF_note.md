@@ -1,6 +1,6 @@
-![](img/08cd0e0e04aad7fd791b99d497b8adbb_1.png)
-
 # 课程 P39：050 - 动态定位技术 - ScanFeatureCode 🔍
+
+![](img/08cd0e0e04aad7fd791b99d497b8adbb_1.png)
 
 ![](img/08cd0e0e04aad7fd791b99d497b8adbb_3.png)
 

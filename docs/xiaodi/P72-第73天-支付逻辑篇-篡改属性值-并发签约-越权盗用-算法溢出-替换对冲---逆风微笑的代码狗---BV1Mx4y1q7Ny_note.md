@@ -1,6 +1,6 @@
-![](img/ba2d0cd505beb11db6ca8a4b411699de_1.png)
-
 # 🛒 P72：第73天：支付逻辑漏洞详解
+
+![](img/ba2d0cd505beb11db6ca8a4b411699de_1.png)
 
 ![](img/ba2d0cd505beb11db6ca8a4b411699de_3.png)
 

@@ -1,6 +1,6 @@
-![](img/d960f2ea495f207a85226e0f5bddf38a_0.png)
-
 # 课程 P34：035 - RPKI 降级攻击 🛡️➡️🔓
+
+![](img/d960f2ea495f207a85226e0f5bddf38a_0.png)
 
 ![](img/d960f2ea495f207a85226e0f5bddf38a_0.png)
 

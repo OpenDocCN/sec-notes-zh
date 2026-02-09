@@ -1,8 +1,8 @@
+# 🛠️ PHP开发实战：第23天 - 身份验证技术详解 (Session, Cookie, Token)
+
 ![](img/98cd56e0aa66705d6a7914d44da5fdd7_1.png)
 
 ![](img/98cd56e0aa66705d6a7914d44da5fdd7_3.png)
-
-# 🛠️ PHP开发实战：第23天 - 身份验证技术详解 (Session, Cookie, Token)
 
 ![](img/98cd56e0aa66705d6a7914d44da5fdd7_5.png)
 

@@ -1,6 +1,6 @@
-![](img/b7cee1742c5fcbad070a3466a6f0abcc_1.png)
-
 # 课程 P32：033 - WebAssembly 虚拟机模糊测试之旅 🚀
+
+![](img/b7cee1742c5fcbad070a3466a6f0abcc_1.png)
 
 在本课程中，我们将学习如何对复杂的 WebAssembly 虚拟机进行模糊测试。我们将从基础概念开始，逐步深入到不同的测试策略，并展示如何通过改进方法发现更深层次的漏洞。
 

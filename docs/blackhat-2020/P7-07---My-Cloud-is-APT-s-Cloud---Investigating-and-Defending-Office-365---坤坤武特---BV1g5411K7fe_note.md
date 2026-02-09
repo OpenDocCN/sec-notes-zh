@@ -1,6 +1,6 @@
-![](img/87ac80d6795e45f492400acd5af8c783_1.png)
-
 # P7：07 - My Cloud is APT's Cloud - Investigating and Defending Office 365 - 坤坤武特 - BV1g5411K7fe
+
+![](img/87ac80d6795e45f492400acd5af8c783_1.png)
 
 ## 概述
 

@@ -1,6 +1,6 @@
-![](img/614951869b3a4ae623be0324ecbea0de_0.png)
-
 # 课程 P54：059 - 在黑暗中消亡的信任：揭示三星 TrustZone Keymaster 设计 🔓
+
+![](img/614951869b3a4ae623be0324ecbea0de_0.png)
 
 ![](img/614951869b3a4ae623be0324ecbea0de_2.png)
 

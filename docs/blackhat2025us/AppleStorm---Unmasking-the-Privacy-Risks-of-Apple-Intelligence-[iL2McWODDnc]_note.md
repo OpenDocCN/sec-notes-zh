@@ -1,8 +1,8 @@
+# 课程 01: AppleStorm - 揭露 Apple Intelligence 的隐私风险 🍎⚡
+
 ![](img/5fe1cc9c454f6256cc462d2c8e9eb89c_1.png)
 
 ![](img/5fe1cc9c454f6256cc462d2c8e9eb89c_3.png)
-
-# 课程 01: AppleStorm - 揭露 Apple Intelligence 的隐私风险 🍎⚡
 
 ![](img/5fe1cc9c454f6256cc462d2c8e9eb89c_4.png)
 

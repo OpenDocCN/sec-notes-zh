@@ -1,8 +1,8 @@
+# i春秋零基础入门Android逆向 - P3：课时3 新版本调试方法及Smali函数文件修改 🛠️
+
 ![](img/ec6fffeb29c7be7bf9d552347e87ce56_1.png)
 
 ![](img/ec6fffeb29c7be7bf9d552347e87ce56_3.png)
-
-# i春秋零基础入门Android逆向 - P3：课时3 新版本调试方法及Smali函数文件修改 🛠️
 
 ![](img/ec6fffeb29c7be7bf9d552347e87ce56_5.png)
 

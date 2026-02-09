@@ -1,10 +1,10 @@
+# Java安全课程 P66：Java原生RCE、JNDI注入与五大不安全组件 🛡️
+
 ![](img/2bad90e2b256ef869fe1e32e14f7beeb_1.png)
 
 ![](img/2bad90e2b256ef869fe1e32e14f7beeb_3.png)
 
 ![](img/2bad90e2b256ef869fe1e32e14f7beeb_5.png)
-
-# Java安全课程 P66：Java原生RCE、JNDI注入与五大不安全组件 🛡️
 
 ![](img/2bad90e2b256ef869fe1e32e14f7beeb_7.png)
 

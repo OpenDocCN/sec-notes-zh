@@ -1,6 +1,6 @@
-![](img/d0428feba4abb901a5cac370aa2a00d7_1.png)
-
 # P71：72 - Engineering Empathy - Adapting Software Engineering Principles and Process - 坤坤武特 - BV1g5411K7fe
+
+![](img/d0428feba4abb901a5cac370aa2a00d7_1.png)
 
 ## 概述
 

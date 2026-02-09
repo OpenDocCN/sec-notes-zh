@@ -1,6 +1,6 @@
-![](img/b279e0bafb2d8ed0d2ec9f19e04e0059_1.png)
-
 # P41：42 - Black-Box Laser Fault Injection on a Secure Memory 🧐
+
+![](img/b279e0bafb2d8ed0d2ec9f19e04e0059_1.png)
 
 ## 概述
 

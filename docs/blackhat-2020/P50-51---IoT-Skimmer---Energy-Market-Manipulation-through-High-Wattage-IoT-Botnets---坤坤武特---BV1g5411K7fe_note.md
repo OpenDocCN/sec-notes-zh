@@ -1,6 +1,6 @@
-![](img/add8eb43d6a17649f0721ce0b137c6d7_1.png)
-
 # P50：51 - IoT Skimmer - 通过高功耗物联网僵尸网络进行能源市场操纵 - 坤坤武特 - BV1g5411K7fe
+
+![](img/add8eb43d6a17649f0721ce0b137c6d7_1.png)
 
 [MUSIC]
 

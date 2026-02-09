@@ -1,6 +1,6 @@
-![](img/bdba59d6094c80ebd9d4e04bf7ae4360_1.png)
-
 # P6：06 - 现代Windows Rootkit揭秘 - 坤坤武特 - BV1g5411K7fe
+
+![](img/bdba59d6094c80ebd9d4e04bf7ae4360_1.png)
 
 ![](img/bdba59d6094c80ebd9d4e04bf7ae4360_3.png)
 

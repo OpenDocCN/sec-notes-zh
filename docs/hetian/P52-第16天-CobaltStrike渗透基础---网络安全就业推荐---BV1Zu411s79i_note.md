@@ -1,3 +1,5 @@
+# 课程P52：第16天：CobaltStrike渗透基础 🛠️
+
 ![](img/60cdf456f4e698f9ba78d6b2c2f8c80b_0.png)
 
 ![](img/60cdf456f4e698f9ba78d6b2c2f8c80b_2.png)
@@ -7,8 +9,6 @@
 ![](img/60cdf456f4e698f9ba78d6b2c2f8c80b_5.png)
 
 ![](img/60cdf456f4e698f9ba78d6b2c2f8c80b_7.png)
-
-# 课程P52：第16天：CobaltStrike渗透基础 🛠️
 
 在本节课中，我们将要学习CobaltStrike（简称CS）这一强大的渗透测试框架。我们将从CS的简介和基本概念开始，逐步学习其安装、配置、核心功能，并通过实战演示让靶机上线，掌握其基本工作流程。
 

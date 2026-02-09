@@ -1,6 +1,6 @@
-![](img/f3f1012c50c8250de4910c7f1f5b1600_0.png)
-
 # 课程4：Android JNI 编程入门教程 🛠️
+
+![](img/f3f1012c50c8250de4910c7f1f5b1600_0.png)
 
 在本节课中，我们将学习Android JNI编程的基础知识。JNI是连接Java层和Native层的桥梁，理解它是进行Android逆向分析的关键。我们将从环境配置开始，逐步学习如何编写、编译和调用Native代码。
 

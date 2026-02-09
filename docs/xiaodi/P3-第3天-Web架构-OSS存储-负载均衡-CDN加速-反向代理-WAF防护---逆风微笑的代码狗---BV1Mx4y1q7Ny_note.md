@@ -1,6 +1,6 @@
-![](img/625cefca01c2a81dfe9c0be5a8f4d4eb_0.png)
-
 # 课程P3：Web架构与安全组件详解 🔐
+
+![](img/625cefca01c2a81dfe9c0be5a8f4d4eb_0.png)
 
 ![](img/625cefca01c2a81dfe9c0be5a8f4d4eb_2.png)
 

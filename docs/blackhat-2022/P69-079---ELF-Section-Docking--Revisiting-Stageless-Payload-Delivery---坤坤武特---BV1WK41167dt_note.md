@@ -1,6 +1,6 @@
-![](img/30a20704841e5fce9cd5d9a85db87a1b_0.png)
-
 # P69：079 - ELF 节对接：重新审视无阶段载荷交付 🔗
+
+![](img/30a20704841e5fce9cd5d9a85db87a1b_0.png)
 
 ![](img/30a20704841e5fce9cd5d9a85db87a1b_2.png)
 

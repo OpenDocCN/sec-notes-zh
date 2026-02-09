@@ -1,6 +1,6 @@
-![](img/913cafcbd12ec169ecbcdaf3a96febfb_0.png)
-
 # 课程 P61：XMPP Stanza 走私攻击与 Zoom 漏洞分析 🔍
+
+![](img/913cafcbd12ec169ecbcdaf3a96febfb_0.png)
 
 在本课程中，我们将学习一种名为 **XMPP Stanza 走私** 的攻击技术，并了解攻击者如何利用该技术成功入侵 Zoom 等即时通讯应用。我们将从 XMPP 协议的基础讲起，逐步分析其安全漏洞的成因、发现方法以及实际利用过程。
 

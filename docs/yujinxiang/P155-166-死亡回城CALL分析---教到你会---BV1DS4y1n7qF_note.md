@@ -1,6 +1,6 @@
-![](img/f09ba7d9c36e195aaa708c34ca718ea1_0.png)
-
 # 课程P155：166-死亡回城CALL分析 🎮
+
+![](img/f09ba7d9c36e195aaa708c34ca718ea1_0.png)
 
 ![](img/f09ba7d9c36e195aaa708c34ca718ea1_2.png)
 

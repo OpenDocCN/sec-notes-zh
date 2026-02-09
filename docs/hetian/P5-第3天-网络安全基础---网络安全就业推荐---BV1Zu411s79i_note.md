@@ -1,8 +1,8 @@
+# 🛡️ 课程P5：第3天 - HTTP/HTTPS协议与Cookie/Session基础
+
 ![](img/60f89eafbe77f7a0533ea8c6438a5c6a_1.png)
 
 ![](img/60f89eafbe77f7a0533ea8c6438a5c6a_3.png)
-
-# 🛡️ 课程P5：第3天 - HTTP/HTTPS协议与Cookie/Session基础
 
 在本节课中，我们将要学习网络安全的基础知识，核心内容包括HTTP/HTTPS协议的工作原理、Cookie与Session机制，以及如何通过Burp Suite等工具进行实践操作。课程内容力求简单直白，让初学者能够轻松理解。
 

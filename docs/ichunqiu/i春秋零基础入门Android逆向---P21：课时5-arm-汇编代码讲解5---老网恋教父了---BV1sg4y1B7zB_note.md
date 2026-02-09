@@ -1,6 +1,6 @@
-![](img/336ec5bc5e232e9587a64d31161a675e_1.png)
-
 # i春秋零基础入门Android逆向 - P21：课时5 ARM汇编代码讲解5 - 函数Hook原理与实践 🎯
+
+![](img/336ec5bc5e232e9587a64d31161a675e_1.png)
 
 在本节课中，我们将要学习Android Native层（SO库）函数Hook（挂钩）的原理与实现方法。我们将使用Cydia Substrate框架，通过一个简单的例子，演示如何替换一个SO库中的函数，并深入分析其底层运作机制。
 

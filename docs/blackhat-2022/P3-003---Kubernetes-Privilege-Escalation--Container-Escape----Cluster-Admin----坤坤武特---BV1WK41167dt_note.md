@@ -1,6 +1,6 @@
-![](img/a3e34b2ec696dc1e7cb94a9ee599b0fe_0.png)
-
 # 课程 P3-003：Kubernetes 权限提升：容器逃逸等于集群管理员权限吗？ 🚀🔓
+
+![](img/a3e34b2ec696dc1e7cb94a9ee599b0fe_0.png)
 
 ![](img/a3e34b2ec696dc1e7cb94a9ee599b0fe_2.png)
 

@@ -1,6 +1,6 @@
-![](img/8fb3472c5a8ac5ca875d00e3c9073d83_1.png)
-
 # 📚 课程P36：JavaEE应用、第三方组件、Log4j日志、FastJson序列化与JNDI注入
+
+![](img/8fb3472c5a8ac5ca875d00e3c9073d83_1.png)
 
 ![](img/8fb3472c5a8ac5ca875d00e3c9073d83_3.png)
 

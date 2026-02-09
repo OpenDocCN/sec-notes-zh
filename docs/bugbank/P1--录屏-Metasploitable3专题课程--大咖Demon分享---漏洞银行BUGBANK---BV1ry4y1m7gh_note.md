@@ -1,6 +1,6 @@
-![](img/d803cf724764fd777fe182ba5c370a41_1.png)
-
 # 课程P1：Metasploitable3靶机渗透测试入门 🎯
+
+![](img/d803cf724764fd777fe182ba5c370a41_1.png)
 
 在本节课中，我们将学习如何对Metasploitable3靶机进行初步的信息收集与渗透测试。课程将涵盖从环境搭建、端口扫描到利用WebDAV漏洞获取初始权限的全过程。
 

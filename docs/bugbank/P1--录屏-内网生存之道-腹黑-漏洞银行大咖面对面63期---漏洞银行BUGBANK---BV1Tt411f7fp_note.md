@@ -1,6 +1,6 @@
-![](img/046bf06636f3fef206f9faf1fae5a0b5_1.png)
-
 # 课程 P1：内网生存之道 🕵️♂️
+
+![](img/046bf06636f3fef206f9faf1fae5a0b5_1.png)
 
 ![](img/046bf06636f3fef206f9faf1fae5a0b5_3.png)
 

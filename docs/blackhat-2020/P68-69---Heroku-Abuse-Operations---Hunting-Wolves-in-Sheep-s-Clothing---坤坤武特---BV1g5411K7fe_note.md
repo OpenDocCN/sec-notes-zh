@@ -1,6 +1,6 @@
-![](img/9318e8d593ca702842e95cdb0d8c5fd4_1.png)
-
 # P68：69 - Heroku滥用操作 - 穿着羊皮的狼 - 坤坤武特 - BV1g5411K7fe
+
+![](img/9318e8d593ca702842e95cdb0d8c5fd4_1.png)
 
 ## 概述
 

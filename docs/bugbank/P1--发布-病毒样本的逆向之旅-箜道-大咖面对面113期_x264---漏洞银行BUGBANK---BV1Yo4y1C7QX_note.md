@@ -1,6 +1,6 @@
-![](img/aa546ca5bb7bc1bacf9a6aa18306dea7_0.png)
-
 # 逆向分析入门教程：永恒之蓝勒索病毒样本分析之旅 🔍
+
+![](img/aa546ca5bb7bc1bacf9a6aa18306dea7_0.png)
 
 ![](img/aa546ca5bb7bc1bacf9a6aa18306dea7_2.png)
 

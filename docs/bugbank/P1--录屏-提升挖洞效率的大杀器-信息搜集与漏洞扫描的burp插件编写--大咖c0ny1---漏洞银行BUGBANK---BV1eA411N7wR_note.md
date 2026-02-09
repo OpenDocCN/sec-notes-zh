@@ -1,6 +1,6 @@
-![](img/a6765af1c7b23d09c743cce2e8ab512c_0.png)
-
 # 课程 P1：提升挖洞效率的大杀器 - Burp插件编写 🚀
+
+![](img/a6765af1c7b23d09c743cce2e8ab512c_0.png)
 
 ![](img/a6765af1c7b23d09c743cce2e8ab512c_2.png)
 

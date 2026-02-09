@@ -1,6 +1,6 @@
-![](img/1bdb9238ac7826586087fcdc7f6cbb22_1.png)
-
 # 🛡️ 课程P83：Linux权限维持技术详解
+
+![](img/1bdb9238ac7826586087fcdc7f6cbb22_1.png)
 
 ![](img/1bdb9238ac7826586087fcdc7f6cbb22_3.png)
 

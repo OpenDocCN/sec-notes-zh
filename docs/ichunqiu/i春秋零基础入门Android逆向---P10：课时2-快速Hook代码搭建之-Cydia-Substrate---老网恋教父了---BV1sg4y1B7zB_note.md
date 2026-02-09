@@ -1,6 +1,6 @@
-![](img/65643bdba9fec7a5ae2f51db64b60baa_1.png)
-
 # i春秋零基础入门Android逆向 - P10：课时2 快速Hook代码搭建之 Cydia Substrate 🛠️
+
+![](img/65643bdba9fec7a5ae2f51db64b60baa_1.png)
 
 在本节课中，我们将要学习如何使用 Cydia Substrate 框架来快速搭建 Android 应用的 Hook 代码。我们将了解函数钩子的概念，并动手编写一个简单的插件来修改系统行为。
 

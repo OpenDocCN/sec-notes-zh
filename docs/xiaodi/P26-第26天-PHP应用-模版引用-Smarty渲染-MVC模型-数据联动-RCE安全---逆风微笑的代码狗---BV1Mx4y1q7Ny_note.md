@@ -1,6 +1,6 @@
-![](img/e55b0bbc28b9a8e0f34f1e454ceab4d1_1.png)
-
 # 🧩 P26：PHP模板技术、Smarty渲染与MVC模型安全教程
+
+![](img/e55b0bbc28b9a8e0f34f1e454ceab4d1_1.png)
 
 ![](img/e55b0bbc28b9a8e0f34f1e454ceab4d1_3.png)
 

@@ -1,3 +1,5 @@
+# 🛡️ 课程P56：CSRF漏洞原理、利用与绕过实战
+
 ![](img/6d024bf2a8c382c9f13cbb6d870022d3_0.png)
 
 ![](img/6d024bf2a8c382c9f13cbb6d870022d3_2.png)
@@ -5,8 +7,6 @@
 ![](img/6d024bf2a8c382c9f13cbb6d870022d3_4.png)
 
 ![](img/6d024bf2a8c382c9f13cbb6d870022d3_6.png)
-
-# 🛡️ 课程P56：CSRF漏洞原理、利用与绕过实战
 
 ![](img/6d024bf2a8c382c9f13cbb6d870022d3_8.png)
 

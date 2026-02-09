@@ -1,8 +1,8 @@
+# P54：55 - 通过Safari利用六个漏洞链式攻击macOS内核 - 坤坤武特 - BV1g5411K7fe
+
 ![](img/5e831e58f50b00d5eee362c11da3d471_1.png)
 
 ![](img/5e831e58f50b00d5eee362c11da3d471_2.png)
-
-# P54：55 - 通过Safari利用六个漏洞链式攻击macOS内核 - 坤坤武特 - BV1g5411K7fe
 
 ## 概述
 在本节课中，我们将学习如何通过Safari利用六个漏洞链式攻击macOS内核，实现代码执行和权限提升。

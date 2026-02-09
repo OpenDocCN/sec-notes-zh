@@ -1,8 +1,8 @@
+# 课程 P1：phpMyAdmin Getshell 独家技巧详解 🛡️➡️🐚
+
 ![](img/cdc1369f46e21c66d8b376d069212f7a_1.png)
 
 ![](img/cdc1369f46e21c66d8b376d069212f7a_3.png)
-
-# 课程 P1：phpMyAdmin Getshell 独家技巧详解 🛡️➡️🐚
 
 在本节课中，我们将学习如何利用 phpMyAdmin 进行 Getshell 操作。课程将涵盖从认识目标、信息收集、漏洞挖掘与利用，到最终防范措施的完整流程。我们将以 phpMyAdmin 4.8.1 版本为例进行实战演示，旨在帮助初学者理解渗透测试的核心思路。
 

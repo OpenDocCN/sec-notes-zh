@@ -1,8 +1,8 @@
+# i春秋零基础入门Android逆向 - P8：课时8 从0开始打造自己的破解代码库 🛠️
+
 ![](img/88f1c0c6675b4fc40effcecc05abff56_1.png)
 
 ![](img/88f1c0c6675b4fc40effcecc05abff56_3.png)
-
-# i春秋零基础入门Android逆向 - P8：课时8 从0开始打造自己的破解代码库 🛠️
 
 ![](img/88f1c0c6675b4fc40effcecc05abff56_5.png)
 

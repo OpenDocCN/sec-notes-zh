@@ -1,6 +1,6 @@
-![](img/e24f545b080a39503ad3bffc99e76d9a_1.png)
-
 # 课程 P32：043 - 技能学习条件检测函数 IsCanStudy 🧠
+
+![](img/e24f545b080a39503ad3bffc99e76d9a_1.png)
 
 ![](img/e24f545b080a39503ad3bffc99e76d9a_2.png)
 

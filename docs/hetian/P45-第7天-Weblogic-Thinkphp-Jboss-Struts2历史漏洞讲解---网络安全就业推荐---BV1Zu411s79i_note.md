@@ -1,8 +1,8 @@
+# 网络安全实战教程：P45 - 第7天：Weblogic、ThinkPHP、JBoss、Struts2历史漏洞讲解 🔍
+
 ![](img/32df6c3a121be42ac8057efe47760a25_1.png)
 
 ![](img/32df6c3a121be42ac8057efe47760a25_3.png)
-
-# 网络安全实战教程：P45 - 第7天：Weblogic、ThinkPHP、JBoss、Struts2历史漏洞讲解 🔍
 
 ![](img/32df6c3a121be42ac8057efe47760a25_5.png)
 

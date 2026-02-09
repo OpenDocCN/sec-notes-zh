@@ -1,8 +1,8 @@
+# i春秋零基础入门Android逆向 - P20：课时4 ARM汇编代码讲解4 🧠
+
 ![](img/8663a7a46ddeff5363f8d8fca562af20_1.png)
 
 ![](img/8663a7a46ddeff5363f8d8fca562af20_3.png)
-
-# i春秋零基础入门Android逆向 - P20：课时4 ARM汇编代码讲解4 🧠
 
 在本节课中，我们将深入学习ARM与Thumb指令集的区别、识别方法，并掌握如何对SO文件中的汇编代码进行修改和爆破。
 

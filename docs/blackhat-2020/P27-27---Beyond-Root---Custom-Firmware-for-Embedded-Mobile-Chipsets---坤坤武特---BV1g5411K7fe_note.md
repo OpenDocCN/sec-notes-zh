@@ -1,6 +1,6 @@
-![](img/d202d0bc3ff9afbd290b0730237f5383_1.png)
-
 # P27：27 - Beyond Root - Custom Firmware for Embedded Mobile Chipsets - 坤坤武特 - BV1g5411K7fe
+
+![](img/d202d0bc3ff9afbd290b0730237f5383_1.png)
 
 ## 概述
 

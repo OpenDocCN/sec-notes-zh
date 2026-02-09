@@ -1,6 +1,6 @@
-![](img/ef8eec0b69242dbb7d5c16830c98c3ff_0.png)
-
 # 课程P1：漏洞挖掘思维培养 🎯
+
+![](img/ef8eec0b69242dbb7d5c16830c98c3ff_0.png)
 
 ![](img/ef8eec0b69242dbb7d5c16830c98c3ff_2.png)
 

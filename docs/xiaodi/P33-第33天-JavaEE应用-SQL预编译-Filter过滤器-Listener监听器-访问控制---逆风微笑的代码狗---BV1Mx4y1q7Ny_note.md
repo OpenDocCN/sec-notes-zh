@@ -1,6 +1,6 @@
-![](img/23e3753a0c3bf2e9237690c7ba63441e_1.png)
-
 # 🚀 课程33：JavaEE应用、SQL预编译、Filter过滤器与Listener监听器
+
+![](img/23e3753a0c3bf2e9237690c7ba63441e_1.png)
 
 ![](img/23e3753a0c3bf2e9237690c7ba63441e_3.png)
 

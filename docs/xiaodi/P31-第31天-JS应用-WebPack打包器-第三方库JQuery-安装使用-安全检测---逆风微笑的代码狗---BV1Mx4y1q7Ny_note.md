@@ -1,10 +1,10 @@
+# 📦 第31天：JavaScript应用、WebPack打包器与第三方库JQuery的安全检测
+
 ![](img/e90e96ef59b334500d0ec0f65bc6619c_0.png)
 
 ![](img/e90e96ef59b334500d0ec0f65bc6619c_2.png)
 
 ![](img/e90e96ef59b334500d0ec0f65bc6619c_4.png)
-
-# 📦 第31天：JavaScript应用、WebPack打包器与第三方库JQuery的安全检测
 
 ![](img/e90e96ef59b334500d0ec0f65bc6619c_6.png)
 

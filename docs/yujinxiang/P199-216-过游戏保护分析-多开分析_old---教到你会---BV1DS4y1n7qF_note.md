@@ -1,6 +1,6 @@
-![](img/2b7d0b9d16d7f6f38f8c7158c0dfde3f_1.png)
-
 # 课程 P199：216-过游戏保护分析-多开分析 🔍
+
+![](img/2b7d0b9d16d7f6f38f8c7158c0dfde3f_1.png)
 
 ![](img/2b7d0b9d16d7f6f38f8c7158c0dfde3f_3.png)
 

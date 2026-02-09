@@ -1,10 +1,10 @@
-![](img/1189cb761d08552b77c1d3d6b8a97961_1.png)
-
 # P43：44 - 通过攻击SecureKernel破坏VSM - 坤坤武特 - BV1g5411K7fe
 
-![](img/1189cb761d08552b77c1d3d6b8a97961_3.png)
+![](img/1189cb761d08552b77c1d3d6b8a97961_1.png)
 
 ## 概述
+
+![](img/1189cb761d08552b77c1d3d6b8a97961_3.png)
 
 在本节课中，我们将学习如何通过攻击SecureKernel来破坏VSM（虚拟化安全模块）。我们将了解VSM的架构、SecureKernel的漏洞以及如何利用这些漏洞。
 

@@ -1,6 +1,6 @@
-![](img/5c6bfa81bd63a1b89c54dcadfb1a836a_1.png)
-
 # 🗂️ 课程P50：PHP文件包含漏洞详解（LFI/RFI/伪协议/无文件利用）
+
+![](img/5c6bfa81bd63a1b89c54dcadfb1a836a_1.png)
 
 ![](img/5c6bfa81bd63a1b89c54dcadfb1a836a_3.png)
 

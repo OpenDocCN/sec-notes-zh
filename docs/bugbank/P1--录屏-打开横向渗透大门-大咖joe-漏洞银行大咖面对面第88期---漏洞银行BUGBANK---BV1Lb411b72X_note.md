@@ -1,6 +1,6 @@
-![](img/fc7c4a999ade5b90651135ea6cafa0b4_0.png)
-
 # 课程 P1：打开横向渗透大门 🚪
+
+![](img/fc7c4a999ade5b90651135ea6cafa0b4_0.png)
 
 ![](img/fc7c4a999ade5b90651135ea6cafa0b4_2.png)
 

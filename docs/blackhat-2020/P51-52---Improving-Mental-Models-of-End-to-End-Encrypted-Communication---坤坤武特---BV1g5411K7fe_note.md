@@ -1,6 +1,6 @@
-![](img/ef3fc4af7490cf0f81e799b3de95023f_1.png)
-
 # P51：52 - 改进端到端加密通信的心理模型 - 坤坤武特 - BV1g5411K7fe
+
+![](img/ef3fc4af7490cf0f81e799b3de95023f_1.png)
 
 ## 概述
 

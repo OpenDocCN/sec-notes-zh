@@ -1,6 +1,6 @@
-![](img/512c5ae9aced253b71ef06aeb4f52bc8_1.png)
-
 # 课程 P1-103：从安全角度看计算机端口 🔐
+
+![](img/512c5ae9aced253b71ef06aeb4f52bc8_1.png)
 
 ![](img/512c5ae9aced253b71ef06aeb4f52bc8_3.png)
 

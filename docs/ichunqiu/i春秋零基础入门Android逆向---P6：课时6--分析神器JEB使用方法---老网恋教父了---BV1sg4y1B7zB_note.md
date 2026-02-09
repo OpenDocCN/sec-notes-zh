@@ -1,6 +1,6 @@
-![](img/a6cfe84a3e48d4ccdd047b2d4f20610d_1.png)
-
 # i春秋零基础入门Android逆向 - P6：课时6 分析神器JEB使用方法 🛠️
+
+![](img/a6cfe84a3e48d4ccdd047b2d4f20610d_1.png)
 
 ![](img/a6cfe84a3e48d4ccdd047b2d4f20610d_3.png)
 

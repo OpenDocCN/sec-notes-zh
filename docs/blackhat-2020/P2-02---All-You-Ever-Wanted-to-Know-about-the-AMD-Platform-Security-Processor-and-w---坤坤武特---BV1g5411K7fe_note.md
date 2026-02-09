@@ -1,6 +1,6 @@
-![](img/0244bee100ec0a615275505ab94106ad_1.png)
-
 # P2：02 - All You Ever Wanted to Know about the AMD Platform Security Processor and w - 坤坤武特 - BV1g5411K7fe
+
+![](img/0244bee100ec0a615275505ab94106ad_1.png)
 
 ## 概述
 

@@ -1,8 +1,8 @@
+# P67：68 - Web Cache Entanglement - Novel Pathways to Poisoning - 坤坤武特 - BV1g5411K7fe
+
 ![](img/2707f15d495a519e4a601427aa6019f3_1.png)
 
 ![](img/2707f15d495a519e4a601427aa6019f3_3.png)
-
-# P67：68 - Web Cache Entanglement - Novel Pathways to Poisoning - 坤坤武特 - BV1g5411K7fe
 
 ## 概述
 

@@ -1,6 +1,6 @@
-![](img/6bea3ceee54c62aef97063025f7c581f_0.png)
-
 # 课程P50：第14天：Metasploit渗透基础及实操 🔧
+
+![](img/6bea3ceee54c62aef97063025f7c581f_0.png)
 
 在本节课中，我们将要学习渗透测试框架Metasploit的基础知识，包括其目录结构、核心模块、基本操作流程，并通过经典的MS17-010（永恒之蓝）漏洞攻击实例，演示如何利用Metasploit获取目标主机的Meterpreter会话，并进行初步的后渗透操作。
 

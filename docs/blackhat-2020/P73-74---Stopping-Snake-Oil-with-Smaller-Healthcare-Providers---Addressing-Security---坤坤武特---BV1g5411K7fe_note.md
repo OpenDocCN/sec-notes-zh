@@ -1,8 +1,8 @@
+# P73：74 - Stopping Snake Oil with Smaller Healthcare Providers - Addressing Security 🚀
+
 ![](img/92c83fded2bb99cc7fc5e2aac344ac76_1.png)
 
 ![](img/92c83fded2bb99cc7fc5e2aac344ac76_2.png)
-
-# P73：74 - Stopping Snake Oil with Smaller Healthcare Providers - Addressing Security 🚀
 
 ## 概述
 

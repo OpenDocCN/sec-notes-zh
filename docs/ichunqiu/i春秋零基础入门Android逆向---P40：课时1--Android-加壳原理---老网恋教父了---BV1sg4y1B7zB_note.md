@@ -1,10 +1,10 @@
+# i春秋零基础入门Android逆向 - P40：课时1 Android 加壳原理 🛡️
+
 ![](img/cbbfb6a6b7a277f178e1d6b78e95b32b_1.png)
 
 ![](img/cbbfb6a6b7a277f178e1d6b78e95b32b_2.png)
 
 ![](img/cbbfb6a6b7a277f178e1d6b78e95b32b_3.png)
-
-# i春秋零基础入门Android逆向 - P40：课时1 Android 加壳原理 🛡️
 
 在本节课中，我们将要学习Android应用加壳的基本原理。加壳是一种保护应用程序原始代码（DEX文件）的技术，通过加密和动态加载来隐藏核心逻辑。理解加壳原理对于后续学习脱壳技术至关重要。
 

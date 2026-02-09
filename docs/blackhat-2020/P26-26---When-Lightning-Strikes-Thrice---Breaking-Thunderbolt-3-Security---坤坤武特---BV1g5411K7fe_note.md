@@ -1,8 +1,8 @@
+# P26：26 - 当闪电三次击中时 - 暴破Thunderbolt 3安全 - 坤坤武特 - BV1g5411K7fe
+
 ![](img/1d3f50dcf93e6f202b7317f1c34a2c66_1.png)
 
 ![](img/1d3f50dcf93e6f202b7317f1c34a2c66_2.png)
-
-# P26：26 - 当闪电三次击中时 - 暴破Thunderbolt 3安全 - 坤坤武特 - BV1g5411K7fe
 
 ## 概述
 

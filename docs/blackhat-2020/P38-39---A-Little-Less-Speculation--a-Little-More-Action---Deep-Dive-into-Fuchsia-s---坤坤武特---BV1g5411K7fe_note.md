@@ -1,8 +1,8 @@
+# P38：39 - A Little Less Speculation, a Little More Action - Deep Dive into Fuchsia's - 坤坤武特 - BV1g5411K7fe
+
 ![](img/a47e8972931880bcf2ac0f80e448fa5c_1.png)
 
 ![](img/a47e8972931880bcf2ac0f80e448fa5c_2.png)
-
-# P38：39 - A Little Less Speculation, a Little More Action - Deep Dive into Fuchsia's - 坤坤武特 - BV1g5411K7fe
 
 ## 概述
 

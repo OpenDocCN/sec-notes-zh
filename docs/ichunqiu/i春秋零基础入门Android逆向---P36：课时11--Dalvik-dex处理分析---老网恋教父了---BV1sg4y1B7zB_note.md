@@ -1,8 +1,8 @@
+# i春秋零基础入门Android逆向 - P36：课时11 Dalvik dex处理分析 🧠
+
 ![](img/b214c311bb36ee7dbdaebfc83773a437_1.png)
 
 ![](img/b214c311bb36ee7dbdaebfc83773a437_2.png)
-
-# i春秋零基础入门Android逆向 - P36：课时11 Dalvik dex处理分析 🧠
 
 ![](img/b214c311bb36ee7dbdaebfc83773a437_4.png)
 

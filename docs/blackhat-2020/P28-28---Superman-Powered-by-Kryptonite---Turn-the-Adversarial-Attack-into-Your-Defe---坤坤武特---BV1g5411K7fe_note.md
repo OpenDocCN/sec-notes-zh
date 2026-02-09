@@ -1,6 +1,6 @@
-![](img/f566fd388008a3e299a12d12ed369219_1.png)
-
 # P28：28 - Superman Powered by Kryptonite - Turn the Adversarial Attack into Your Defense Weapon - 坤坤武特 - BV1g5411K7fe
+
+![](img/f566fd388008a3e299a12d12ed369219_1.png)
 
 ## 概述
 

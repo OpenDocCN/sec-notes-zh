@@ -1,3 +1,5 @@
+# 课程P68：Java安全之JWT攻防、Swagger自动化与Druid泄漏 🔐
+
 ![](img/dab4fc6318f358f64a12ef655193e26c_1.png)
 
 ![](img/dab4fc6318f358f64a12ef655193e26c_3.png)
@@ -11,8 +13,6 @@
 ![](img/dab4fc6318f358f64a12ef655193e26c_11.png)
 
 ![](img/dab4fc6318f358f64a12ef655193e26c_13.png)
-
-# 课程P68：Java安全之JWT攻防、Swagger自动化与Druid泄漏 🔐
 
 ![](img/dab4fc6318f358f64a12ef655193e26c_15.png)
 

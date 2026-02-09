@@ -1,8 +1,8 @@
+# 课程 P78：供应链安全攻击 – 影响数千万设备的 Ripple20 漏洞分析 🚨
+
 ![](img/3a6e88fb4d016cd8cadf0a1357e57bba_1.png)
 
 ![](img/3a6e88fb4d016cd8cadf0a1357e57bba_2.png)
-
-# 课程 P78：供应链安全攻击 – 影响数千万设备的 Ripple20 漏洞分析 🚨
 
 ## 概述
 

@@ -1,10 +1,10 @@
+# P47：48 - 破解大脑，解决问题 - 两年设置谜题和视频的经验教训 - 坤坤武特 - BV1g5411K7fe
+
 ![](img/f14ba7f9e94c1b4d9ba7d88bad637a44_1.png)
 
 ![](img/f14ba7f9e94c1b4d9ba7d88bad637a44_3.png)
 
 ![](img/f14ba7f9e94c1b4d9ba7d88bad637a44_5.png)
-
-# P47：48 - 破解大脑，解决问题 - 两年设置谜题和视频的经验教训 - 坤坤武特 - BV1g5411K7fe
 
 ![](img/f14ba7f9e94c1b4d9ba7d88bad637a44_7.png)
 
