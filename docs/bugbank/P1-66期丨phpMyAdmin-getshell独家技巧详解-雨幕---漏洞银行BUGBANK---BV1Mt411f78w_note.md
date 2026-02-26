@@ -1,4 +1,4 @@
-# 课程 P1：phpMyAdmin Getshell 独家技巧详解 🛡️➡️🐚
+# phpMyAdmin Getshell 独家技巧详解 🛡️➡️🐚
 
 ![](img/cdc1369f46e21c66d8b376d069212f7a_1.png)
 

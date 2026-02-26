@@ -1,4 +1,4 @@
-# 课程 P1：安全狗上传绕过与Webshell免杀 🛡️➡️🚀
+# 安全狗上传绕过与Webshell免杀 🛡️➡️🚀
 
 ![](img/1ced8696393d36cc2cabd3fad6b8a5fd_1.png)
 

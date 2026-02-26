@@ -1,4 +1,4 @@
-# 课程P1：浅谈CSRF漏洞 🛡️
+# 浅谈CSRF漏洞 🛡️
 
 ![](img/2a5bed7f12752bdb2a73866e9febe5cf_0.png)
 

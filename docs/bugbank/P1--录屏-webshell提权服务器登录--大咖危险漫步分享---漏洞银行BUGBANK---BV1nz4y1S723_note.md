@@ -1,4 +1,4 @@
-# 课程 P1：Webshell提权与服务器登录教程 🔓
+# Webshell提权与服务器登录教程 🔓
 
 ![](img/2849f86e03d265a3a9a93bbf3059a1f5_0.png)
 

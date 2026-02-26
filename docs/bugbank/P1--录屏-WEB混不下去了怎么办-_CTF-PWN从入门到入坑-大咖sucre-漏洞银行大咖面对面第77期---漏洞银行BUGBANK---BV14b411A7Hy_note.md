@@ -1,4 +1,4 @@
-# 课程 P1：CTF PWN 从入门到入坑 🚀
+# CTF PWN 从入门到入坑 🚀
 
 ![](img/5f7c83ada2108fd6aa3b4e455a873944_1.png)
 

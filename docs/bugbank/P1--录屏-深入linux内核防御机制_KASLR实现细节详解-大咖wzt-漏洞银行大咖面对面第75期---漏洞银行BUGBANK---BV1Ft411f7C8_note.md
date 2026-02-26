@@ -1,4 +1,4 @@
-# 课程 P1：深入 Linux 内核防御机制 KASLR 实现细节详解 🛡️
+# 深入 Linux 内核防御机制 KASLR 实现细节详解 🛡️
 
 ![](img/52c992f9dc81ff181a606b128c18ed84_1.png)
 

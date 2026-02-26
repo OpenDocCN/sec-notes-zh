@@ -1,4 +1,4 @@
-# 课程P1：多线程技术与QRLJacking攻击 🔐
+# 多线程技术与QRLJacking攻击 🔐
 
 ![](img/4a1af3ed8c50ad8f2627a44299486efb_1.png)
 

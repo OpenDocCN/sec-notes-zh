@@ -1,4 +1,4 @@
-# 课程 P1：EternalBlue漏洞复现与分析 🧪
+# EternalBlue漏洞复现与分析 🧪
 
 ![](img/a8cc569ec39d76a46c3e085db086326a_1.png)
 

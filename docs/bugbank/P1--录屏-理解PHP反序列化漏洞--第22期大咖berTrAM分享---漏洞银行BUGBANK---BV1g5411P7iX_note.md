@@ -1,4 +1,4 @@
-# 课程 P1：理解PHP反序列化漏洞 🧠
+# 理解PHP反序列化漏洞 🧠
 
 ![](img/d1071b70aeaafee64a1287ab62a98b7d_1.png)
 

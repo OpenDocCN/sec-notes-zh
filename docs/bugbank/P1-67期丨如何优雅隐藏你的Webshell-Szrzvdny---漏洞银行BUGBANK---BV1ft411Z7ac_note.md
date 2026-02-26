@@ -1,4 +1,4 @@
-# 课程 P1：如何优雅隐藏你的Webshell 🕵️
+# 如何优雅隐藏你的Webshell 🕵️
 
 ![](img/03ddb1ab68f6859f5919fcab1bafba35_0.png)
 

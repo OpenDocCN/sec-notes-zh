@@ -1,4 +1,4 @@
-# 课程 P1-54：打开RFID Hacking攻防的大门——RFID射频技术与实战解析 🚪📡
+# 打开RFID Hacking攻防的大门——RFID射频技术与实战解析 🚪📡
 
 ![](img/3eee55e2279766f3776f59d3d66aec83_1.png)
 

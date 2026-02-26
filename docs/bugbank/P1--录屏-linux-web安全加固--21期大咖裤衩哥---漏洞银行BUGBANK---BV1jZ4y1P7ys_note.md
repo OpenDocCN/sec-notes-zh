@@ -1,4 +1,4 @@
-# 课程 P1：Linux Web安全加固基础概念 🔒
+# Linux Web安全加固基础概念 🔒
 
 ![](img/cd6863c27ca3e830b3b1ee776922a44b_1.png)
 

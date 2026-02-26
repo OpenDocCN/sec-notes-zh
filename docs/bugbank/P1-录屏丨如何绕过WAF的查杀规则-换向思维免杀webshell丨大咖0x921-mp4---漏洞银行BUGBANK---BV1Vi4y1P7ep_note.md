@@ -1,4 +1,4 @@
-# 课程 P1：换向思维免杀WebShell 🛡️➡️🚫
+# 换向思维免杀WebShell 🛡️➡️🚫
 
 ![](img/f7c635a50ff13b55f60ef0705a7a0bab_1.png)
 

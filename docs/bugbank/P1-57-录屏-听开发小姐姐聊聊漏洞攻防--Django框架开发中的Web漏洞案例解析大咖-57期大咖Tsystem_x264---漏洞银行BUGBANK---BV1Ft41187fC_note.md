@@ -1,4 +1,4 @@
-# 课程P1-57：Django框架开发中的Web漏洞案例解析 🛡️💻
+# Django框架开发中的Web漏洞案例解析 🛡️💻
 
 ![](img/75c90f0c148b8af42688bbcb18ef788f_1.png)
 

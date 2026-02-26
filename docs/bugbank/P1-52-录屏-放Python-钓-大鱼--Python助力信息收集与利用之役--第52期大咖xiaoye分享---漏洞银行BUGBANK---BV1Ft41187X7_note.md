@@ -1,4 +1,4 @@
-# 课程P1-52：放Python，钓“大鱼”——Python助力信息收集与利用之役 🐍🎣
+# 放Python，钓“大鱼”——Python助力信息收集与利用之役 🐍🎣
 
 ![](img/b36d92439ca92b98aa2dddc73be9349f_1.png)
 

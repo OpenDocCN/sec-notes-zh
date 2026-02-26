@@ -1,4 +1,4 @@
-# 课程一：GDPR与EXIN DPO认证体系详解 🔐
+# GDPR与EXIN DPO认证体系详解 🔐
 
 ![](img/5c0d5492193915fbb0298f2571992082_0.png)
 

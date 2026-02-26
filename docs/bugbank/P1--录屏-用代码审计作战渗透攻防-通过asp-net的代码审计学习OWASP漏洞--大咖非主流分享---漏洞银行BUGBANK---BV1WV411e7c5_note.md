@@ -1,4 +1,4 @@
-# 课程 P1：ASP.NET 代码审计与OWASP漏洞实战 🛡️
+# ASP.NET 代码审计与OWASP漏洞实战 🛡️
 
 ![](img/1863d19ce4aefcf3b38eccff082618ea_0.png)
 

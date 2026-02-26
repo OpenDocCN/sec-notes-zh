@@ -1,4 +1,4 @@
-# 课程 P1：使用 MSF 与 Unicorn（独角兽）进行 Windows 渗透测试 🖥️🔓
+# 使用 MSF 与 Unicorn（独角兽）进行 Windows 渗透测试 🖥️🔓
 
 ![](img/6702ed68adeb083916cc52b3e5c72cd7_1.png)
 

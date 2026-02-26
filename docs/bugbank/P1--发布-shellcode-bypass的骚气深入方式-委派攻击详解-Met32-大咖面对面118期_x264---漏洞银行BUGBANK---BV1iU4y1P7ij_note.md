@@ -1,4 +1,4 @@
-# 课程 P1：Shellcode原理、编写、绕过与权限维持详解 🚀
+# Shellcode原理、编写、绕过与权限维持详解 🚀
 
 ![](img/bb78e449116e217a9a2a5001a0cfd82a_1.png)
 

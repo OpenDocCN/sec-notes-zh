@@ -1,4 +1,4 @@
-# 课程 P1：XSS Fuzz 的艺术 🎯
+# XSS Fuzz 的艺术 🎯
 
 ![](img/ac9c43b00930825c6098c0d5c703215e_1.png)
 

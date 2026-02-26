@@ -1,4 +1,4 @@
-# 课程 P1：APT攻击基础解析 🎯
+# APT攻击基础解析 🎯
 
 ![](img/ae41273b4afc8d4fa4544a3e9befb877_1.png)
 

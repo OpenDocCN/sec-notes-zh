@@ -1,4 +1,4 @@
-# 课程P1：Metasploitable3靶机渗透测试入门 🎯
+# Metasploitable3靶机渗透测试入门 🎯
 
 ![](img/d803cf724764fd777fe182ba5c370a41_1.png)
 

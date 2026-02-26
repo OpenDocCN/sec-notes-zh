@@ -1,4 +1,4 @@
-# 课程P1：MySQLi Bypass WAF 实战分析教程 🛡️➡️💻
+# MySQLi Bypass WAF 实战分析教程 🛡️➡️💻
 
 ![](img/d6a1a73c42ed57dda42147e3801e4dba_0.png)
 
