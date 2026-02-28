@@ -1,4 +1,4 @@
-# 课程 1：揭露与应对 TJ Actions 供应链攻击 🛡️
+# 揭露与应对 TJ Actions 供应链攻击 🛡️
 
 ![](img/2f0b6339e07e0ae0b48e7ea44b10ff6e_1.png)
 

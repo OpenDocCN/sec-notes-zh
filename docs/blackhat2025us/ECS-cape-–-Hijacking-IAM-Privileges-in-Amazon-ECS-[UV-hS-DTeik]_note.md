@@ -1,4 +1,4 @@
-# 课程 1: ECS-cape – 在 Amazon ECS 中劫持 IAM 权限 [UV-hS-DTeik] 🚨
+#  ECS-cape – 在 Amazon ECS 中劫持 IAM 权限 [UV-hS-DTeik] 🚨
 
 ![](img/d3f1f886cd1d66057c8940fb33cef9e6_1.png)
 

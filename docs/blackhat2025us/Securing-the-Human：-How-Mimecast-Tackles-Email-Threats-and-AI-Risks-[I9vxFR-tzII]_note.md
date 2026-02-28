@@ -1,4 +1,4 @@
-# 课程 I9：保护“人”的因素：Mimecast如何应对邮件威胁与AI风险 🛡️
+# 保护“人”的因素：Mimecast如何应对邮件威胁与AI风险 🛡️
 
 ![](img/627ead4fbca03623cbac4069f20faf09_0.png)
 

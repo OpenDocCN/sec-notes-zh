@@ -1,4 +1,4 @@
-# 课程 1：攻击 Windows Server 故障转移集群 - 集群化的故障点 [FSRmPwfMYs0] 🎯
+# 攻击 Windows Server 故障转移集群 - 集群化的故障点 [FSRmPwfMYs0] 🎯
 
 在本节课中，我们将学习 Windows Server 故障转移集群的工作原理、其安全风险，以及攻击者如何利用集群配置中的弱点。我们将从基础概念开始，逐步深入到实际的攻击路径和防御策略。
 

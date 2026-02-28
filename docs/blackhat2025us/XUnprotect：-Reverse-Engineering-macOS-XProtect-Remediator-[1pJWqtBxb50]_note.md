@@ -1,4 +1,4 @@
-# 课程 1：逆向工程 macOS XProtect Remediator 🛡️
+# 逆向工程 macOS XProtect Remediator 🛡️
 
 在本节课中，我们将深入探讨 macOS 安全组件 XProtect Remediator 的内部工作原理。我们将学习其检测逻辑、针对的恶意软件家族，并分析其使用的技术和潜在问题。本课程旨在为安全研究人员（无论是蓝队还是红队）提供关于 XPR 的深入技术理解。
 

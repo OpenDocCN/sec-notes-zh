@@ -1,4 +1,4 @@
-# 课程 1：Windows Hello for Business 深度解析 🛡️
+# Windows Hello for Business 深度解析 🛡️
 
 在本节课中，我们将深入探讨 Windows Hello for Business 的工作原理、架构及其安全模型。我们将从基本概念入手，逐步分析其身份识别与认证流程，并揭示其内部数据库结构及潜在的安全考量。
 

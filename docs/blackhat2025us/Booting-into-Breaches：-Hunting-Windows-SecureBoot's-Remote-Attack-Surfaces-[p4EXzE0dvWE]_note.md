@@ -1,4 +1,4 @@
-# 课程 01：深入漏洞：探寻 Windows SecureBoot 的远程攻击面 🚀
+# 深入漏洞：探寻 Windows SecureBoot 的远程攻击面 🚀
 
 在本课程中，我们将学习关于 Windows SecureBoot 安全特性的漏洞研究。我们将探讨如何发现这些漏洞、它们的影响范围，以及普通用户应如何保持系统安全。
 

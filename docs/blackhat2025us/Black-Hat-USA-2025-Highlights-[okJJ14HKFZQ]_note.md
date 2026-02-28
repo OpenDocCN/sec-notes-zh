@@ -1,4 +1,4 @@
-# 课程名称：Black Hat USA 2025 亮点回顾 [课程编号：okJJ14HKFZQ]
+# Black Hat USA 2025 亮点回顾 [课程编号：okJJ14HKFZQ]
 
 ## 概述
 

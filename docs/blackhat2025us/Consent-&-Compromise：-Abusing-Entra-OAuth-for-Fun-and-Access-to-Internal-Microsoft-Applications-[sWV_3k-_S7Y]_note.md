@@ -1,4 +1,4 @@
-# 课程 01：滥用 Entra OAuth 获取内部 Microsoft 应用程序访问权限 🎯
+# 滥用 Entra OAuth 获取内部 Microsoft 应用程序访问权限 🎯
 
 在本课程中，我们将学习一种针对 Microsoft Entra ID（原 Azure AD）身份平台的新型配置错误。这种错误允许外部用户通过滥用多租户应用程序的 OAuth 授权流程，访问本应仅限于内部使用的 Microsoft 应用程序。我们将从基础概念讲起，逐步剖析攻击原理、步骤和实际案例。
 

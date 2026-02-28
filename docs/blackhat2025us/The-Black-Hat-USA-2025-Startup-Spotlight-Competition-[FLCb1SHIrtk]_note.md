@@ -1,4 +1,4 @@
-# 课程 01: Black Hat USA 2025 初创企业焦点竞赛全记录 🏆
+# Black Hat USA 2025 初创企业焦点竞赛全记录 🏆
 
 ![](img/51011ca9a37b5e258ec323debf0307c3_1.png)
 

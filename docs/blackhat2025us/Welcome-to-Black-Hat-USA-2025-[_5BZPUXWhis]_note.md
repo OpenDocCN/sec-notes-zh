@@ -1,4 +1,4 @@
-# 课程1：Black Hat USA 2025 参会指南 🎯
+# Black Hat USA 2025 参会指南 🎯
 
 ![](img/64bc44ffcadea7b8da3e79ed5fea4c4d_0.png)
 
