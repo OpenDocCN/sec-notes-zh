@@ -10,6 +10,7 @@
 +   [MIT 6.5620 密码学基础](docs/mit-65620-crpt-fund/README.md)
 +   [MIT 6.5630 密码学高级笔记](docs/mit-65630-crpt-adv/README.md)
 +   [MIT 6.858 计算机系统安全讲义 2014 秋季](docs/mit-6858-comp-sec/README.md)
++   [斯坦福密码学 I 笔记](docs/stf-crpt-1/README.md)
 +   [天草逆向教程笔记](docs/tiancao/README.md)
 +   [UCB CS161 计算机安全 2023 笔记](docs/ucb-cs161-comp-sec-23/README.md)
 +   [UCB CS161 计算机安全 2025 笔记](docs/ucb-cs161-comp-sec-25/README.md)
