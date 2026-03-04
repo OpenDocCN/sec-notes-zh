@@ -4,6 +4,7 @@
 +   [BlackHat 2022 会议笔记](docs/blackhat-2022/README.md)
 +   [BlackHat 2025 US 会议笔记](docs/blackhat2025us/README.md)
 +   [漏洞银行大咖面对面](docs/bugbank/README.md)
++   [CTF 笔记](docs/ctf/README.md)
 +   [合天网络安全笔记](docs/hetian/README.md)
 +   [IBM 网络安全分析师专项笔记](docs/ibm-cbrsec-anls-spec/README.md)
 +   [i春秋视频课程笔记](docs/ichunqiu/README.md)
