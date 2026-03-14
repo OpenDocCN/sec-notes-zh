@@ -6,3 +6,7 @@
 +   [005：NIST网络安全框架 🛡️](infosec-cert-cldsec-prof-005.md)
 +   [006：法规遵从性 📜](infosec-cert-cldsec-prof-006.md)
 +   [007：云计算概念 🚀](infosec-cert-cldsec-prof-007.md)
++   [008：云参考架构 🏗️](infosec-cert-cldsec-prof-008.md)
++   [009：云服务部署模型 🏗️](infosec-cert-cldsec-prof-009.md)
++   [010：虚拟化的安全方面](infosec-cert-cldsec-prof-010.md)
++   [011：安全云计算原则 🛡️](infosec-cert-cldsec-prof-011.md)
