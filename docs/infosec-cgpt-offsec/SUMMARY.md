@@ -8,6 +8,7 @@
 +   [007：使用ChatGPT进行侦察技术](infosec-cgpt-offsec-007.md)
 +   [008：社交媒体与开源情报 🕵️](infosec-cgpt-offsec-008.md)
 +   [009：ChatGPT在攻击性安全中的应用 p09 02_01_04_网页抓取](infosec-cgpt-offsec-009.md)
++   [010：利用ChatGPT进行应用程序功能利用](infosec-cgpt-offsec-010.md)
 +   [011：基于用户输入生成漏洞利用代码的演示](infosec-cgpt-offsec-011.md)
 +   [012：绕过安全控制演示](infosec-cgpt-offsec-012.md)
 +   [013：利用文件上传漏洞演示](infosec-cgpt-offsec-013.md)
