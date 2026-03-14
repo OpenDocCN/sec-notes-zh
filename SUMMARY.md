@@ -17,6 +17,8 @@
 +   [合天网络安全笔记](docs/hetian/README.md)
 +   [IBM 网络安全分析师专项笔记](docs/ibm-cbrsec-anls-spec/README.md)
 +   [i春秋视频课程笔记](docs/ichunqiu/README.md)
++   [InfoSec 认证云安全专家笔记](docs/infosec-cert-cldsec-prof/README.md)
++   [InfoSec ChatGPT 进攻性安全笔记](docs/infosec-cgpt-offsec/README.md)
 +   [MIT 6.5620 密码学基础](docs/mit-65620-crpt-fund/README.md)
 +   [MIT 6.5630 密码学高级笔记](docs/mit-65630-crpt-adv/README.md)
 +   [MIT 6.858 计算机系统安全讲义 2014 秋季](docs/mit-6858-comp-sec/README.md)
