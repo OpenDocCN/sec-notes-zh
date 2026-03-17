@@ -30,6 +30,7 @@
 +   [天草逆向教程笔记](docs/tiancao/README.md)
 +   [UCB CS161 计算机安全 2023 笔记](docs/ucb-cs161-comp-sec-23/README.md)
 +   [UCB CS161 计算机安全 2025 笔记](docs/ucb-cs161-comp-sec-25/README.md)
++   [UCB Web3 零知识证明笔记](docs/ucb-web3/README.md)
 +   [UCD ECS189f 区块链架构笔记](docs/ucd-ecs189f-bc-arch/README.md)
 +   [伦敦大学应用密码学入门笔记](docs/uol-app-crpt-intro/README.md)
 +   [小迪安全课程笔记 2024](docs/xiaodi/README.md)
