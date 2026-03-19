@@ -14,6 +14,7 @@
 +   [谷歌网络安全 VI 笔记](docs/ggl-cbrsec-6/README.md)
 +   [谷歌网络安全 VII 笔记](docs/ggl-cbrsec-7/README.md)
 +   [谷歌网络安全 VIII 笔记](docs/ggl-cbrsec-8/README.md)
++   [哈佛 CS2881r 人工智能安全笔记](docs/hav-cs2881r-aisec/README.md)
 +   [合天网络安全笔记](docs/hetian/README.md)
 +   [IBM 网络安全分析师专项笔记](docs/ibm-cbrsec-anls-spec/README.md)
 +   [i春秋视频课程笔记](docs/ichunqiu/README.md)
