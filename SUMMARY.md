@@ -2,6 +2,7 @@
 +   [ASU CSE466 计算机系统安全笔记](docs/asu-cse466-compsys-sec/README.md)
 +   [BlackHat 2020 会议笔记](docs/blackhat-2020/README.md)
 +   [BlackHat 2022 会议笔记](docs/blackhat-2022/README.md)
++   [BlackHat Asia 2024 笔记](docs/blackhat-asia-2024/README.md)
 +   [BlackHat 2025 US 会议笔记](docs/blackhat2025us/README.md)
 +   [漏洞银行大咖面对面](docs/bugbank/README.md)
 +   [CMU 15-356 密码学导论笔记](docs/cmu-15356-crpt-intro/README.md)
