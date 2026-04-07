@@ -7,6 +7,7 @@
 +   [漏洞银行大咖面对面](docs/bugbank/README.md)
 +   [CMU 15-356 密码学导论笔记](docs/cmu-15356-crpt-intro/README.md)
 +   [CTF 笔记](docs/ctf/README.md)
++   [埃默里 CS453 计算机安全笔记](docs/emory-cs453-compsec/README.md)
 +   [谷歌 AGI 安全笔记](docs/ggl-agi-sec/README.md)
 +   [谷歌网络安全 I 笔记](docs/ggl-cbrsec-1/README.md)
 +   [谷歌网络安全 II 笔记](docs/ggl-cbrsec-2/README.md)
